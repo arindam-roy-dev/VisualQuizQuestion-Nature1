@@ -1,21 +1,20 @@
 {
 "app":"Visual Quiz",
-"question":"What is the correct Answer? Answer B?",
+"question":"This is the smallest living bird in the world. What is the name of this Bird?",
 "answers":[
-	"Answer A",
-	"Answer B",
-	"Answer C",
-	"Answer D"
+	"Green Kingfisher",
+	"Nightingale",
+	"Bee Hummingbird",
+	"Swallow"
 	],
 "correctAnswer":2,
 "hints":[
-	"Broad Hints 1",
-	"Near Hints 2",
-	"Close Hints 3"
+	"Mostly found in Cuba and the Isle of Pines in the West Indies.",
+	"Scientific name is Mellisuga helenae"
 	],
 "earn":{
 	"hints":1,
 	"hideAnswers":2
 	},
-"aboutAnswer":"If you use a Windows computer you may end up with different results. This is possibly due to the way Windows handles newlines. Essentially, if you have just newline characters in your JSON and paste it into JSONLint from a Windows computer, it may validate it as valid erroneously since Windows may need a carriage return as well to detect newlines properly. As a solution, either use direct URL input, or make sure your content's newlines match the architecture your system expects!"
+"aboutAnswer":"The bee hummingbird, zunzuncito or Helena hummingbird (Mellisuga helenae) is a species of hummingbird which is the world's smallest bird. It is endemic to Cuba and the Isla de la Juventud.Females weigh 2.6 g (0.092 oz) and are 6.1 cm (2.4 in) long, and are slightly larger than males, with an average weight of 1.95 g (0.069 oz) and length of 5.5 cm (2.2 in). As its name suggests, it is scarcely larger than a bee.\nThe bee hummingbird feeds mainly on nectar, and an occasional insect or spider, by moving its tongue rapidly in and out of its mouth. In the process of feeding, the bird picks up pollen on its bill and head. When it flies from flower to flower, it transfers the pollen. In this way, it plays an important role in plant reproduction. In one day, the bee hummingbird may visit 1,500 flowers."
 }
