@@ -1,0 +1,19 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this animal?",
+"answers":[
+	"Cat",
+	"Dog",
+	"Leopard",
+	"Fox"
+	],
+"correctAnswer":4,
+"hints":[
+	"Omnivorous - Eats food of both plant and animal"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Foxes are small-to-medium-sized, omnivorous mammals. The diet of foxes is largely made up of invertebrates such as insects, and small vertebrates such as reptiles and birds, and can include eggs and plants. Many species are generalist predators, but some (such as the crab-eating fox) have more specialized diets. Foxes cache excess food, burying it for later consumption, usually under leaves, snow, or soil."
+}

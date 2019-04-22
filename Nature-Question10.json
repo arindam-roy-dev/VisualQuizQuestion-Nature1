@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"This bird's eye is bigger than its brain. What is the name of this bird?",
+"answers":[
+	"Emu",
+	"Rallidae",
+	"Goose",
+	"Ostrich"
+	],
+"correctAnswer":4,
+"hints":[
+	"Found in Africa"
+	"It can't fly",
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":0
+	},
+"aboutAnswer":"The ostriches are a family, Struthionidae, of flightless birds. Today ostriches are only found natively in the wild in Africa, where they occur in a range of open arid and semi-arid habitats such as savannas and the Sahel, both north and south of the equatorial forest zone."
+}

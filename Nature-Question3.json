@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this animal?",
+"answers":[
+	"Meerkat",
+	"Jackal",
+	"Wolf",
+	"Musk Deer"
+	],
+"correctAnswer":1,
+"hints":[
+	"Primarily Insectivore - Carnivorous that eats insects"
+	"It belongs to mongoose family",
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"The meerkat or Suricate (Suricata suricatta) is a small carnivoran belonging to the mongoose family. Meerkats live in all parts of the Kalahari Desert in Botswana, in much of the Namib Desert in Namibia and southwestern Angola, and in South Africa. A meerkat clan often contains about 20 meerkats, but some super-families have 50 or more members. In captivity, meerkats have an average life span of 12–14 years. \nMeerkats are primarily insectivores, but also eat other animals (lizards, snakes, scorpions, spiders, eggs, small mammals, millipedes, centipedes and, more rarely, small birds), plants and fungi. Meerkats are immune to certain types of venom, including the very strong venom of the scorpions of the Kalahari Desert."
+}
