@@ -9,12 +9,12 @@
 	],
 "correctAnswer":4,
 "hints":[
-	"Mostly found in Cuba and the Isle of Pines in the West Indies.",
-	"Scientific name is Mellisuga helenae"
+	"Because transparency is of prime importance, it does not have blood vessels",
+	"Oxygen dissolves in tears and then diffuses throughout it"
 	],
 "earn":{
-	"hints":1,
-	"hideAnswers":2
+	"hints":0,
+	"hideAnswers":1
 	},
 "aboutAnswer":"The cornea is the transparent front part of the eye that covers the iris, pupil, and anterior chamber. The cornea, with the anterior chamber and lens, refracts light, with the cornea accounting for approximately two-thirds of the eye's total optical power.\nThe cornea has unmyelinated nerve endings sensitive to touch, temperature and chemicals; a touch of the cornea causes an involuntary reflex to close the eyelid. Because transparency is of prime importance, the healthy cornea does not have or need blood vessels within it. Instead, oxygen dissolves in tears and then diffuses throughout the cornea to keep it healthy.\nSimilarly, nutrients are transported via diffusion from the tear fluid through the outside surface and the aqueous humour through the inside surface, and also from neurotrophins supplied by nerve fibres that innervate it."
 }
