@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Bird?",
+"answers":[
+	"Atlantic Puffin",
+	"Macaw",
+	"Keel-billed Toucan",
+	"Parrot"
+	],
+"correctAnswer":2,
+"hints":[
+	"Mostly found in Rainforests",
+	"Mostly found in Central America and North America (only Mexico), South America"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Macaws are native to Central America and North America (only Mexico), South America, and formerly the Caribbean. Most species are associated with forests, especially rainforests, but others prefer woodland or savannah-like habitats.\nProportionately larger beaks, long tails, and relatively bare, light-coloured, medial (facial patch) areas distinguish macaws from other parrots. Sometimes the facial patch is smaller in some species and limited to a yellow patch around the eyes and a second patch near the base of the beak in the members of the genus Anodorhynchus. A macaw's facial feather pattern is as unique as a fingerprint.\nThe largest macaws are the hyacinth, Buffon's (great green) and green-winged macaws. While still relatively large, macaws of the genera Cyanopsitta, Orthopsittaca and Primolius are significantly smaller than the members of Anodorhynchus and Ara. The smallest member of the family, the red-shouldered macaw, is no larger than some parakeets of the genus Aratinga.\nMacaws, like other parrots, toucans and woodpeckers, are zygodactyl, having their first and fourth toes pointing backward."
+}

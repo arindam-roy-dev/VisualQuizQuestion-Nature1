@@ -1,0 +1,19 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Flower?",
+"answers":[
+	"Nymphaea nelumbo",
+	"Orchids",
+	"Tulip",
+	"Red Rose"
+	],
+"correctAnswer":3,
+"hints":[
+	"Mostly found in red, pink, yellow or white coloured"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Tulips (Tulipa) form a genus of spring-blooming perennial herbaceous bulbiferous geophytes (having bulbs as storage organs). The flowers are usually large, showy and brightly coloured, generally red, pink, yellow or white (usually in warm colours).\nWhile tulips had probably been cultivated in Asia from the tenth century, they did not come to the attention of the West until the sixteenth century, when Western diplomats to the Ottoman court observed and reported on them. They were rapidly introduced into Europe and became a frenzied commodity during Tulip mania."
+}

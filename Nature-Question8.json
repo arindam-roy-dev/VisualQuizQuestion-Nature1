@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Which Crop is this?",
+"answers":[
+	"Wheat",
+	"Corn",
+	"Rice",
+	"Oat"
+	],
+"correctAnswer":1,
+"hints":[
+	"Globally, it is the leading source of vegetal protein in human food",
+	"It is an important source of carbohydrates."
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Wheat is a grass widely cultivated for its seed, a cereal grain which is a worldwide staple food. The many species of wheat together make up the genus Triticum; the most widely grown is common wheat.\nThe archaeological record suggests that wheat was first cultivated in the regions of the Fertile Crescent around 9600 BCE. Botanically, the wheat kernel is a type of fruit called a caryopsis.\nWheat is grown on more land area than any other food crop (220.4 million hectares, 2014). World trade in wheat is greater than for all other crops combined. In 2016, world production of wheat was 749 million tonnes, making it the second most-produced cereal after maize.\nWheat is an important source of carbohydrates. Globally, it is the leading source of vegetal protein in human food, having a protein content of about 13%. When eaten as the whole grain, wheat is a source of multiple nutrients and dietary fiber."
+}

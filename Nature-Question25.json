@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Bird?",
+"answers":[
+	"Pelican",
+	"Swan",
+	"Ostrich",
+	"Flamingo"
+	],
+"correctAnswer":4,
+"hints":[
+	"Mostly found in Americas, including the Caribbean, Africa, Asia, and Europe",
+	"Name of the bird comes from Portuguese or Spanish flamengo - \"flame-colored\"",
+	"They are very social birds; they live in colonies"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Flamingos or flamingoes are a type of wading bird in the family Phoenicopteridae, the only bird family in the order Phoenicopteriformes. Four flamingo species are distributed throughout the Americas, including the Caribbean, and two species are native to Africa, Asia, and Europe.\nThe name \"flamingo\" comes from Portuguese or Spanish flamengo, \"flame-colored\".\nFlamingos usually stand on one leg while the other is tucked beneath their bodies. The reason for this behaviour is not fully understood. One theory is that standing on one leg allows the birds to conserve more body heat, given that they spend a significant amount of time wading in cold water.\nFlamingos are capable flyers, and flamingos in captivity often require wing clipping to prevent escape.\nFlamingos are very social birds; they live in colonies whose population can number in the thousands. These large colonies are believed to serve three purposes for the flamingos: avoiding predators, maximizing food intake, and using scarcely suitable nesting sites more efficiently."
+}
