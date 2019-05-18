@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Flower?",
+"answers":[
+	"Iris",
+	"Tulip",
+	"Cherry Blossom",
+	"Lily"
+	],
+"correctAnswer":3,
+"hints":[
+	"Mostly found in Japan",
+	"National flower of Japan"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"A cherry blossom is a flower of several trees of genus Prunus, particularly the Japanese cherry, Prunus serrulata, which is called sakura after the Japanese.\nCurrently they are widely distributed, especially in the temperate zone of the Northern Hemisphere including Japan, Nepal, India, Taiwan, Korea, Mainland China, West Siberia, Iran, Myanmar and Afghanistan.\nThe cherry blossom is considered the national flower of Japan.\nAll varieties of cherry blossom trees produce small, unpalatable fruit or edible cherries. Edible cherries generally come from cultivars of the related species."
+}

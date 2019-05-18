@@ -1,0 +1,19 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Flower?",
+"answers":[
+	"Iris",
+	"Rose",
+	"Tulip",
+	"Sunflower"
+	],
+"correctAnswer":1,
+"hints":[
+	"There are six lobes of this flower"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Iris is a genus of 260–300 species of flowering plants with showy flowers.\nIt takes its name from the Greek word for a rainbow, which is also the name for the Greek goddess of the rainbow, Iris. Some authors state that the name refers to the wide variety of flower colors found among the many species.\nThe inflorescences are in the shape of a fan and contain one or more symmetrical six-lobed flowers. These grow on a pedicel or peduncle. The three sepals, which are usually spreading or droop downwards, are referred to as \"falls\"."
+}

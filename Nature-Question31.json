@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Aquatic Creature?",
+"answers":[
+	"Octopus",
+	"Snail",
+	"Squidworm",
+	"Jellyfish"
+	],
+"correctAnswer":1,
+"hints":[
+	"Strategies to defend themselves against predators include the expulsion of ink",
+	"They are venomous",
+	"Bilaterally symmetric with two eyes and a beak, with its mouth at the center point of the eight limbs"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":2
+	},
+"aboutAnswer":"The octopus is a soft-bodied, eight-limbed mollusc of the order Octopoda. Around 300 species are recognised, and the order is grouped within the class Cephalopoda with squids, cuttlefish, and nautiloids.\nLike other cephalopods, the octopus is bilaterally symmetric with two eyes and a beak, with its mouth at the center point of the eight limbs (traditionally called \"arms\", also mistakenly called \"tentacles\").\nThe soft body can rapidly alter its shape, enabling octopuses to squeeze through small gaps. They trail their eight appendages behind them as they swim. The siphon is used both for respiration and for locomotion, by expelling a jet of water. Octopuses have a complex nervous system and excellent sight, and are among the most intelligent and behaviourally diverse of all invertebrates.\nOctopuses inhabit various regions of the ocean, including coral reefs, pelagic waters, and the seabed; some live in the intertidal zone and others at abyssal depths.\nStrategies to defend themselves against predators include the expulsion of ink, the use of camouflage and threat displays, their abilities to jet quickly through the water and hide, and even through deceit.\nAll octopuses are venomous, but only the blue-ringed octopuses are known to be deadly to humans."
+}0

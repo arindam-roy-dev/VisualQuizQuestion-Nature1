@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Freshwater Fish?",
+"answers":[
+	"Tench",
+	"Angel Fish",
+	"Piranha",
+	"Oscar"
+	],
+"correctAnswer":3,
+"hints":[
+	"Found mainly in Asia, highlands of the Appalachian Mountains of North America",
+	"National flower of Nepal, state flower of West Virginia and Washington"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"A piranha is a freshwater fish that inhabits South American rivers, floodplains, lakes and reservoirs.\nAlthough often described as extremely predatory and mainly feeding on fish, their dietary habits vary extensively, and they will also take plant material, leading to their classification as omnivorous.\nPiranhas are indigenous to the Amazon basin, in the Orinoco, in rivers of the Guianas, in the Paraguay–Paraná, and the São Francisco River systems.\nAlthough often described as extremely dangerous in the media, piranhas typically do not represent a serious risk to humans. However, attacks have occurred, especially when the piranhas are in a stressed situation, such as the dense groups that may occur when the water is lower during the dry season and food is relatively scarce. Being in the water when already injured or otherwise incapacitated also increases the risk. Most piranha attacks on humans only result in minor injuries, typically to the feet or hands, but they are occasionally more serious and very rarely can be fatal.\nVarious stories exist about piranhas, such as how they can lacerate a human body or cattle in seconds. These legends refer specifically to the red-bellied piranha."
+}
