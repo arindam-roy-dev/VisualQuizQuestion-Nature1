@@ -1,0 +1,19 @@
+﻿{
+"app":"Visual Quiz",
+"question":"What is the name of this Tree?",
+"answers":[
+	"Pine",
+	"Maple ",
+	"Walnut",
+	"Oak"
+	],
+"correctAnswer":4,
+"hints":[
+	"The acorns and leaves contain tannic acid, which helps to guard from fungi and insects"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"An oak is a tree or shrub in the genus Quercus. There are approximately 600 extant species of oaks.\nOaks have spirally arranged leaves, with lobate margins in many species; some have serrated leaves or entire leaves with smooth margins. Many deciduous species are marcescent, not dropping dead leaves until spring. In spring, a single oak tree produces both male flowers (in the form of catkins) and small female flowers.\nThe fruit is a nut called an acorn or oak nut borne in a cup-like structure known as a cupule; each acorn contains one seed (rarely two or three) and takes 6–18 months to mature, depending on their species.\nThe acorns and leaves contain tannic acid, which helps to guard from fungi and insects."
+}

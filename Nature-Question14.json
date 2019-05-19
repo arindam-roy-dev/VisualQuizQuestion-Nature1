@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Which bird lays more than 100 Eggs in one Nest?",
+"answers":[
+	"Ostrich",
+	"Owl",
+	"Pelican",
+	"Lark"
+	],
+"correctAnswer":1,
+"hints":[
+	"Flightless bird",
+	"World\'s fastest two-legged animal"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"The ostriches are a family, Struthionidae, of flightless birds. The two extant species of ostrich are the common ostrich and Somali ostrich, both in the genus Struthio.\nOstriches are classified in the ratite group of birds, all extant species of which are flightless, including the kiwis, emus, and rheas.\nThe common ostrich is the largest living species of bird and lays the largest eggs of any living bird (extinct elephant birds of Madagascar and the giant moa of New Zealand laid larger eggs). Ostriches keep their eggs in holes in the sand instead of nests, and must rotate them using their beaks during incubation; digging the hole, placing the eggs, and rotating them might each be mistaken for an attempt to bury their heads in the sand."
+}

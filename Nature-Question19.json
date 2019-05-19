@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"In which animal is Respiration done by Skin?",
+"answers":[
+	"Chemeleon",
+	"Frog",
+	"Crocodile",
+	"Snake"
+	],
+"correctAnswer":2,
+"hints":[
+	"They have anteriorly-attached tongue, limbs folded underneath",
+	"They have no tail"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The skin of a frog is permeable to oxygen and carbon dioxide, as well as to water. There are blood vessels near the surface of the skin and when a frog is underwater, oxygen diffuses directly into the blood.\nWhen not submerged, a frog breathes by a process known as buccal pumping. Its lungs are similar to those of humans, but the chest muscles are not involved in respiration, and no ribs or diaphragm exist to help move air in and out. Instead, it puffs out its throat and draws air in through the nostrils, which in many species can then be closed by valves. When the floor of the mouth is compressed, air is forced into the lungs."
+}

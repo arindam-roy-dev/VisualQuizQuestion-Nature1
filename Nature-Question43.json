@@ -1,0 +1,20 @@
+﻿{
+"app":"Visual Quiz",
+"question":"What is the name of this Tree?",
+"answers":[
+	"Maple",
+	"Pine",
+	"Walnut",
+	"Oak"
+	],
+"correctAnswer":1,
+"hints":[
+	"Mostly visible in Europe, northern Africa, and North America",
+	"Flowers are green, yellow, orange or red"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Acer is a genus of trees and shrubs commonly known as maple. There are approximately 128 species, most of which are native to Asia, with a number also appearing in Europe, northern Africa, and North America. Only one species, Acer laurinum, extends to the Southern Hemisphere.\nMaples are distinguished by opposite leaf arrangement. The leaves in most species are palmate veined and lobed, with 3 to 9 (rarely to 13) veins each leading to a lobe, one of which is central or apical.\nMaple flowers are green, yellow, orange or red. Though individually small, the effect of an entire tree in flower can be striking in several species. Some maples are an early spring source of pollen and nectar for bees."
+}

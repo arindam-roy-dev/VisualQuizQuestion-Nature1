@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"Which animal do not make any sound?",
+"answers":[
+	"Rhinoceros",
+	"Giraffe",
+	"Deer",
+	"Rabbit"
+	],
+"correctAnswer":2,
+"hints":[
+	"African even-toed ungulate mammals",
+	"Tallest living terrestrial animals",
+	"Chief distinguishing characteristics are its extremely long neck and legs"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"The giraffe (Giraffa) is a genus of African even-toed ungulate mammals, the tallest living terrestrial animals and the largest ruminants.\nThe giraffe's chief distinguishing characteristics are its extremely long neck and legs, its horn-like ossicones, and its distinctive coat patterns.\nAlthough generally quiet and non-vocal, giraffes have been heard to communicate using various sounds. During courtship, males emit loud coughs. Females call their young by bellowing. Calves will emit snorts, bleats, mooing and mewing sounds. Giraffes also snore, hiss, moan, grunt and make flute-like sounds, and possibly communicate over long distances using infrasound—though this is disputed. During nighttime, giraffes appear to hum to each other above the infrasound range for purposes which are unclear."
+}

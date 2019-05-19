@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Aquatic Creature?",
+"answers":[
+	"Tuna",
+	"Snail",
+	"Starfish",
+	"Shellfish"
+	],
+"correctAnswer":3,
+"hints":[
+	"Brightly coloured in various shades of red or orange, while others are blue, grey or brown",
+	"They have tube feet operated by a hydraulic system and a mouth at the centre of the oral or lower surface"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Starfish or sea stars are star-shaped echinoderms belonging to the class Asteroidea. About 1,500 species of starfish occur on the seabed in all the world\'s oceans, from the tropics to frigid polar waters. They are found from the intertidal zone down to abyssal depths, 6,000 m (20,000 ft) below the surface.\nStarfish are marine invertebrates. They typically have a central disc and five arms, though some species have a larger number of arms. The aboral or upper surface may be smooth, granular or spiny, and is covered with overlapping plates. Many species are brightly coloured in various shades of red or orange, while others are blue, grey or brown.\nStarfish have tube feet operated by a hydraulic system and a mouth at the centre of the oral or lower surface. They are opportunistic feeders and are mostly predators on benthic invertebrates. Several species have specialized feeding behaviours including eversion of their stomachs and suspension feeding.\nThe fossil record for starfish is ancient, dating back to the Ordovician around 450 million years ago, but it is rather sparse, as starfish tend to disintegrate after death. Only the ossicles and spines of the animal are likely to be preserved, making remains hard to locate."
+}
