@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Which Bird can fly backwards?",
+"answers":[
+	"Sparrow",
+	"Hummingbird",
+	"Hawke",
+	"Heron"
+	],
+"correctAnswer":2,
+"hints":[
+	"They are among the smallest of birds",
+	"They are native to the Americas"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Hummingbirds are birds native to the Americas and constitute the biological family Trochilidae. They are among the smallest of birds, most species measuring 7.5–13 cm (3–5 in) in length.\nHummingbirds are incredible flyers, with the ruby-throated hummingbird beating its wings 80 times every second. These tiny birds can fly forwards, hover, and are the only known birds to fly backwards as well."
+}

@@ -1,0 +1,19 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Vegetable?",
+"answers":[
+	"Cauliflower",
+	"Artichokes",
+	"Cabbage",
+	"Broccoli"
+	],
+"correctAnswer":4,
+"hints":[
+	"Belongs to cabbage family (Brassicas)"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Broccoli is an edible green plant in the cabbage family (Brassicas) whose large flowering head and stalk is eaten as a vegetable.\nBroccoli has large flower heads, usually dark green in color, arranged in a tree-like structure branching out from a thick, edible stalk which is usually light green. The mass of flower heads is surrounded by leaves.\nBroccoli resulted from breeding of cultivated Brassica crops in the northern Mediterranean starting in about the 6th century BC. Since the time of the Roman Empire, broccoli has been commonly consumed, and is eaten raw or cooked.\nBroccoli is a particularly rich source of vitamin C and vitamin K. Contents of its characteristic sulfur-containing glucosinolate compounds, isothiocyanates and sulforaphane, are diminished by boiling, but are better preserved by steaming, microwaving or stir-frying."
+}

@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Which Bird lays only one egg in two years?",
+"answers":[
+	"Albatross",
+	"Parrot ",
+	"Woodpecker",
+	"Heron"
+	],
+"correctAnswer":1,
+"hints":[
+	"They have the longest wingspans of any extant birds, reaching up to 3.7 m (12 ft), They are highly efficient in the air",
+	"Found in Southern Ocean and the North Pacific"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Albatrosses, of the biological family Diomedeidae, range widely in the Southern Ocean and the North Pacific. They are absent from the North Atlantic, although fossil remains show they once occurred there and occasional vagrants are found.\nAlbatrosses are among the largest of flying birds, and have the longest wingspans of any extant birds, reaching up to 3.7 m (12 ft). Albatrosses are highly efficient in the air, using dynamic soaring and slope soaring to cover great distances with little exertion.\nThey feed on squid, fish, and krill by either scavenging, surface seizing, or diving. Albatrosses are colonial, nesting for the most part on remote oceanic islands, often with several species nesting together.\nA breeding season can take over a year from laying to fledging, with a single egg laid in each breeding attempt."
+}

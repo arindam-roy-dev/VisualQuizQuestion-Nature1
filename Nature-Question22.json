@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Animal?",
+"answers":[
+	"Monkey",
+	"Koala",
+	"Giant panda",
+	"Raccoon"
+	],
+"correctAnswer":2,
+"hints":[
+	"Herbivorous marsupial native to Australia",
+	"Sleeps up to 20 hours a day"
+	],
+"earn":{
+	"hints":2,
+	"hideAnswers":0
+	},
+"aboutAnswer":"The koala is an arboreal herbivorous marsupial native to Australia. The koala is found in coastal areas of the mainland\'s eastern and southern regions, inhabiting Queensland, New South Wales, Victoria, and South Australia.\nIt is easily recognisable by its stout, tailless body and large head with round, fluffy ears and large, spoon-shaped nose. Pelage colour ranges from silver grey to chocolate brown.\nKoalas typically inhabit open eucalypt woodlands, and the leaves of these trees make up most of their diet. Because this eucalypt diet has limited nutritional and caloric content, koalas are largely sedentary and sleep up to 20 hours a day.\nThey are asocial animals, and bonding exists only between mothers and dependent offspring. Adult males communicate with loud bellows that intimidate rivals and attract mates. Males mark their presence with secretions from scent glands located on their chests."
+}

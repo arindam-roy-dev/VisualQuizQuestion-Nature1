@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Bird?",
+"answers":[
+	"Hornbill",
+	"Toucan",
+	"Eagle",
+	"Crane"
+	],
+"correctAnswer":3,
+"hints":[
+	"Familiar for their extremely powerful eyes",
+	"Normally build their nests, in tall trees or on high cliffs, and lays two eggs"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Eagle is the common name for many large birds of prey of the family Accipitridae. Most of the 60 species of eagle are from Eurasia and Africa. Outside this area, just 14 species can be found — 2 in North America, 9 in Central and South America, and 3 in Australia.\nEagles are large, powerfully built birds of prey, with heavy heads and beaks. Eagles\' eyes are extremely powerful. It is estimated that the martial eagle, whose eye is more than twice as long as a human eye, has a visual acuity 3.0 to 3.6 times that of humans. This acuity enables eagles to spot potential prey from a very long distance.\nEagles normally build their nests, called eyries, in tall trees or on high cliffs. Many species lay two eggs, but the older, larger chick frequently kills its younger sibling once it has hatched. The dominant chick tends to be a female, as they are bigger than the male. The parents take no action to stop the killing."
+}

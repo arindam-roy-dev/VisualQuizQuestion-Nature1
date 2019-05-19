@@ -1,0 +1,19 @@
+{
+"app":"Visual Quiz",
+"question":"Do male or female mosquitoes bite people?",
+"answers":[
+	"Male",
+	"Female",
+	"Both",
+	"None"
+	],
+"correctAnswer":2,
+"hints":[
+	"Blood contains protein and iron needed to produce eggs"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":2
+	},
+"aboutAnswer":"Mosquitoes (alternate spelling mosquitos) are a group of about 3500 species of small insects that are a type of fly (order Diptera).\nMosquitoes diverged from other insects about 226 million years ago. Fossils of primitive mosquitoes have been found that are over 90 million years old; fossils similar to modern mosquitoes, 79 million years old; fossils identical to modern mosquitoes, 46 million years old.\nThe life cycle consists of the egg, larva, pupa, and adult. Eggs are laid on the water surface; they hatch into motile larvae which feed on aquatic algae and organic material; pupae are breathing non-flying primitive adults.\nFemales of most species have tube - like mouthparts (called a proboscis) which can pierce the skin of the host (colloquially but incorrectly referred to as a \"bite\") in order to extract blood, which contains protein and iron needed to produce eggs. Thousands of mosquito species feed on the blood of various hosts - vertebrates, including mammals, birds, reptiles, amphibians, and some fish; and some invertebrates, primarily other arthropods.\nThe saliva of the mosquito transmitted to the host with the bite can cause itching and a rash. In addition, many species of mosquitoes inject or ingest (or both) disease-causing organisms with the bite and are thus a vector for the transmission of diseases such as malaria, yellow fever, Chikungunya, West Nile virus, dengue fever, filariasis, Zika virus and other arboviruses. Mosquitoes kill more people than any other animal: over 700,000 each year."
+}
