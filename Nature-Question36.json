@@ -1,0 +1,19 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Animal?",
+"answers":[
+	"Sea cows",
+	"Dolphin",
+	"Sea lion",
+	"Seal"
+	],
+"correctAnswer":3,
+"hints":[
+	"They can walk on land using their large flippers, but Seals have small flippers"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":2
+	},
+"aboutAnswer":"Sea lions are pinnipeds characterized by external ear flaps, long foreflippers, the ability to walk on all fours, short, thick hair, and a big chest and belly.\nTheir range extends from the subarctic to tropical waters of the global ocean in both the Northern and Southern Hemispheres, with the notable exception of the northern Atlantic Ocean.\nSea lions consume large quantities of food at a time and are known to eat about 5–8% of their body weight (about 6.8–15.9 kg) (15–35 lb) at a single feeding. Sea lions can go around 16 knots (30 km/h) in water and at their fastest they can go up to 30 knots (56 km/h).\nSea lions are brown, bark loudly, walk on land using their large flippers and have visible ear flaps. Seals have small flippers, wriggle on their bellies on land, and lack visible ear flaps"
+}

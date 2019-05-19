@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Animal?",
+"answers":[
+	"Lemur",
+	"Monkey",
+	"Ape",
+	"Mongoose"
+	],
+"correctAnswer":1,
+"hints":[
+	"Native only to the island of Madagascar",
+	"Most eat a wide variety of fruits and leaves",
+	"Many species are threatened with extinction due to habitat loss and hunting"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Lemurs are mammals of the order Primates, divided into 8 families and consisting of 15 genera and around 100 existing species.\nThey are native only to the island of Madagascar. Most existing lemurs are small, have a pointed snout, large eyes, and a long tail. They chiefly live in trees (arboreal), and are active at night (nocturnal).\nLemurs are generally the most social of the strepsirrhine primates, and communicate more with scents and vocalizations than with visual signals. Lemurs have a relatively low basal metabolic rate, and as a result may exhibit dormancy such as hibernation or torpor.\nMost eat a wide variety of fruits and leaves, while some are specialists. Two species of lemurs may coexist the same forest due to different diets.\nMany lemur species are threatened with extinction due to habitat loss and hunting. Although local traditions generally help protect lemurs and their forests."
+}

@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Animal?",
+"answers":[
+	"Mongoose",
+	"Anteater",
+	"Hyena",
+	"Sloth"
+	],
+"correctAnswer":2,
+"hints":[
+	"They do not normally enter a territory of another",
+	"Commonly known for eating ants and termites"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":2
+	},
+"aboutAnswer":"Anteater is a common name for the four extant mammal species of the suborder Vermilingua, commonly known for eating ants and termites.\nAll anteaters have elongated snouts equipped with a thin tongue that can be extended to a length greater than the length of the head; their tube-shaped mouths have lips but no teeth. They use their large, curved foreclaws to tear open ant and termite mounds and for defense, while their dense and long fur protects them from attacks from the insects. All species except the giant anteater have a long prehensile tail.\nAnteaters are mostly solitary mammals prepared to defend their 1.0 to 1.5 Sq mi (2.6 to 3.9 Sq KM) territories. They do not normally enter a territory of another anteater. When a territorial dispute occurs, they vocalize, swat, and can sometimes sit on or even ride the back of their opponents.\nAnteaters have poor sight but an excellent sense of smell, and most species depend on the latter for foraging, feeding, and defence. Their hearing is thought to be good.\nAnteaters are specialized to feed on small insects, with each anteater species having its own insect preferences: small species are specialized on arboreal insects living on small branches, while large species can penetrate the hard covering of the nests of terrestrial insects. To avoid the jaws, sting, and other defences of the invertebrates, anteaters have adopted the feeding strategy of licking up large numbers of ants and termites as quickly as possible — an anteater normally spends about a minute at a nest before moving on to another — and a giant anteater has to visit up to 200 nests per hour to consume the thousands of insects it needs to satisfy its caloric requirements.\nThe anteater\'s tongue is covered with thousands of tiny hooks called filiform papillae which are used to hold the insects together with large amounts of saliva. Swallowing and the movement of the tongue are aided by side-to-side movements of the jaws. The tongue is attached to the sternum and moves very quickly, flicking 150 times per minute. The anteater\'s stomach, similar to a bird\'s gizzard, has hardened folds and uses strong contractions to grind the insects; a digestive process assisted by small amounts of ingested sand and dirt."
+}
