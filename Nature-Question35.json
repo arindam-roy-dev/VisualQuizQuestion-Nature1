@@ -1,0 +1,19 @@
+{
+"app":"Visual Quiz",
+"question":"How the Age of a Lion can be determined?",
+"answers":[
+	"Color of nose",
+	"Length of tail",
+	"Color of its hair",
+	"Length of nails"
+	],
+"correctAnswer":1,
+"hints":[
+	"When a lion is born, it remains pink. As it ages, small, black spots appear"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"When a lion is born, it has a pink nose. As it ages, small, black spots appear. These grow in size and number until the nose is completely black, usually after 8 years."
+}
