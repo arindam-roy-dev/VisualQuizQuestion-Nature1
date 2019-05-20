@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the world\'s largest fish?",
+"answers":[
+	"Tiger shark",
+	"Whale",
+	"Beluga sturgeon",
+	"Whale shark"
+	],
+"correctAnswer":4,
+"hints":[
+	"They have very large mouths and are filter feeders, They feed almost exclusively on plankton and small fishes, and pose no threat to humans",
+	"Whales are marine mammals and hence, not a fish"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The whale shark is a slow-moving, filter-feeding carpet shark and the largest known extant fish species. The largest confirmed individual had a length of 18.8 m (62 ft). The whale shark holds many records for size in the animal kingdom, most notably being by far the largest living nonmammalian vertebrate.\nThe whale shark is found in open waters of the tropical oceans and is rarely found in the water below 21 °C (70 °F).  Modeling suggests a lifespan of about 70 years, and while measurements have proven difficult, estimates from field data suggest they may live as long as 130 years.\nWhale sharks have very large mouths and are filter feeders, which is a feeding mode that occurs in only two other sharks, the megamouth shark and the basking shark. They feed almost exclusively on plankton and small fishes, and pose no threat to humans."
+}

@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Which animal has largest brain in the World?",
+"answers":[
+	"Dolphin",
+	"Sperm Whale",
+	"Human",
+	"Gorilla"
+	],
+"correctAnswer":2,
+"hints":[
+	"The largest brain is weighing about 8 kg (18 lb)",
+	"The adult human brain weighs on average about 1.28 kg (2.8 lb)"
+	],
+"earn":{
+	"hints":2,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The largest brain is that of the sperm whale, weighing about 8 kg (18 lb), and killer whales, weighing about 5.4 to 6.8 kg (12 to 15 lb).\nAn elephant\'s brain weighs just over 5 kg (11 lb) and a bottlenose dolphin\'s 1.5 to 1.7 kg (3.3 to 3.7 lb). The adult human brain weighs on average about 1.28 kg (2.8 lb).\nBrain size tends to vary according to body size. The relationship is not proportional, however; the brain-to-body mass ratio varies. The largest ratio found is in the shrew.  Intelligence depends not just on the amount of brain tissue, but on the details of how it is structured. Factors other than size are more highly correlated with intelligence, such as the number of cortical neurons and the speed of their connections."
+}
