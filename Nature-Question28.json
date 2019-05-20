@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Which is the Biggest Flower in the world?",
+"answers":[
+	"Water Lily",
+	"Sunflower",
+	"Rafflesia",
+	"Lotus"
+	],
+"correctAnswer":3,
+"hints":[
+	"It is endemic to the rainforests of Sumatra and possibly Borneo",
+	"It has a very strong and unpleasant odour of decaying flesh"
+	],
+"earn":{
+	"hints":2,
+	"hideAnswers":2
+	},
+"aboutAnswer":"Rafflesia arnoldii, commonly called the corpse lily, is a species of flowering plant in the parasitic genus Rafflesia. It is noted for producing the largest individual flower on Earth.\nIt has a very strong and unpleasant odour of decaying flesh, earning it the nickname \"corpse flower\". It is endemic to the rainforests of Sumatra and possibly Borneo. The flower of Rafflesia arnoldii grows to a diameter of around one meter (3 feet). Similar to fungi, individuals grow as thread-like strands of tissue completely embedded within and in intimate contact with surrounding host cells from which nutrients and water are obtained. This plant produces no leaves, stems or roots and does not have chlorophyll.\nIt can only be seen outside the host plant when it is ready to reproduce. Perhaps the only part of Rafflesia that is identifiable as distinctly plant-like are the flowers, though even these are unusual since they attain massive proportions, have a reddish-brown coloration, and stink of rotting flesh. This scent attracts insects such as flies which then pollinate the rare plant."
+}

@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"In the late 1700s, Which Vegetable was considered poisonous for nearly 200 years?",
+"answers":[
+	"Cucumber",
+	"Tomato",
+	"Potato",
+	"Carrot"
+	],
+"correctAnswer":2,
+"hints":[
+	"In the late 1700s, a large percentage of Europeans feared of it",
+	"nickname for the fruit was the \"poison apple\""
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"In the late 1700s, a large percentage of Europeans feared the tomato.\nA nickname for the fruit was the \"poison apple\" because it was thought that aristocrats got sick and died after eating them, but the truth of the matter was that wealthy Europeans used pewter plates, which were high in lead content. Because tomatoes are so high in acidity, when placed on this particular tableware, the fruit would leach lead from the plate, resulting in many deaths from lead poisoning. No one made this connection between plate and poison at the time; the tomato was picked as the culprit.\nAround 1880, with the invention of the pizza in Naples, the tomato grew widespread in popularity in Europe."
+}
