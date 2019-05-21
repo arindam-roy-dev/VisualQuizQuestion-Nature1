@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Animal?",
+"answers":[
+	"Pony",
+	"Bison",
+	"Cow",
+	"Buffalo"
+	],
+"correctAnswer":1,
+"hints":[
+	"They have similarities with Horses",
+	"Differences from Horses are, proportionally shorter legs, wider barrels, heavier bone, thicker necks, and shorter heads with broader foreheads"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"A pony is a small horse (Equus ferus caballus). Depending on context, a pony may be a horse that is under an approximate or exact height at the withers or a small horse with a specific conformation and temperament.\nThere are many different breeds. Compared to other horses, ponies often exhibit thicker manes, tails and overall coat, as well as proportionally shorter legs, wider barrels, heavier bone, thicker necks, and shorter heads with broader foreheads.\nUnlike a horse foal, a pony remains small when fully grown. On occasion, people who are unfamiliar with horses may confuse an adult pony with a foal.\nThe ancestors of most modern ponies developed small stature because they lived on the margins of livable horse habitat. These smaller animals were domesticated and bred for various purposes all over the Northern Hemisphere. Ponies were historically used for driving and freight transport, as children\'s mounts, for recreational riding, and later as competitors and performers in their own right. During the Industrial Revolution, particularly in Great Britain, a significant number were used as pit ponies, hauling loads of coal in the mines.\nPonies are generally considered intelligent and friendly. They are sometimes also described as stubborn or cunning. Properly trained ponies are appropriate mounts for children who are learning to ride. Larger ponies can be ridden by adults, as ponies are usually strong for their size."
+}

@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Bird?",
+"answers":[
+	"Macaw",
+	"Peacock",
+	"Golden Pheasant",
+	"Long Tailed Widowbird"
+	],
+"correctAnswer":2,
+"hints":[
+	"It\'s Male Peafowl",
+	"The two Asiatic species are the blue and originally of the Indian subcontinent"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Peafowl is a common name for three species of birds in the genera Pavo and Afropavo of the Phasianidae family, the pheasants and their allies. Male peafowl are referred to as peacocks, and female peafowl as peahens.\nThe two Asiatic species are the blue or Indian peafowl originally of the Indian subcontinent, and the green peafowl of Southeast Asia; the one African species is the Congo peafowl, native only to the Congo Basin.\nMale peafowl are known for their piercing calls and their extravagant plumage. The latter is especially prominent in the Asiatic species, which have an eye-spotted \"tail\" or \"train\" of covert feathers, which they display as part of a courtship ritual."
+}

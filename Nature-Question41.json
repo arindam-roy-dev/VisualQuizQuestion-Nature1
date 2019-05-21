@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Bird?",
+"answers":[
+	"Peacock",
+	"Ostrich",
+	"Hen",
+	"Turkey"
+	],
+"correctAnswer":4,
+"hints":[
+	"Turkeys were domesticated in ancient Mexico",
+	"Large bird and native to the Americas"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"The turkey is a large bird in the genus Meleagris, which is native to the Americas.\nMales of both turkey species have a distinctive fleshy wattle or protuberance that hangs from the top of the beak (called a snood). They are among the largest birds in their ranges. As in many galliformes, the male is larger and much more colorful than the female.\nTurkeys were domesticated in ancient Mexico, for food and/or for their cultural and symbolic significance. The Aztecs, for example, had a name for the turkey, wueh-xōlō-tl (guajolote in Spanish), a word still used in modern Mexico in addition to the general term pavo. The ancient people of Mexico had not only domesticated the turkey but had apparently developed sophisticated recipes including these ingredients—many used to this day—over hundreds of years."
+}

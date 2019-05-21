@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Aquatic Creature?",
+"answers":[
+	"Prawn",
+	"Crab",
+	"Shrimp",
+	"Lobster"
+	],
+"correctAnswer":4,
+"hints":[
+	"Highly prized as seafood, they are economically important",
+	"Live in murky environments at the bottom of the ocean"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Lobsters are a family (Nephropidae, sometimes also Homaridae) of large marine crustaceans.\nLobsters have long bodies with muscular tails, and live in crevices or burrows on the sea floor. Three of their five pairs of legs have claws, including the first pair, which are usually much larger than the others.\nHighly prized as seafood, lobsters are economically important, and are often one of the most profitable commodities in coastal areas they populate. Commercially important species include two species of Homarus (which looks like the stereotypical lobster) from the northern Atlantic Ocean, and scampi (which looks like a shrimp) – the Northern Hemisphere genus Nephrops and the Southern Hemisphere genus Metanephrops.\nLobsters are invertebrates with a hard protective exoskeleton. Like most arthropods, lobsters must moult to grow, which leaves them vulnerable. During the moulting process, several species change color. Lobsters have eight walking legs; the front three pairs bear claws, the first of which are larger than the others. Although lobsters are largely bilaterally symmetrical like most other arthropods, some genera possess unequal, specialized claws.\nBecause lobsters live in murky environments at the bottom of the ocean, they mostly use their antennae as sensors. The lobster eye has a reflective structure above a convex retina. In contrast, most complex eyes use refractive ray concentrators (lenses) and a concave retina."
+}

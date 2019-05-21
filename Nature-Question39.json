@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Animal?",
+"answers":[
+	"Pony",
+	"Bison",
+	"Cow",
+	"Buffalo"
+	],
+"correctAnswer":2,
+"hints":[
+	"Largest surviving terrestrial animals in North America and Europe",
+	"They are broad and muscular with shaggy coats of long hair"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Bison are large, even-toed ungulates in the genus Bison within the subfamily Bovinae.\nThe American bison and the European bison (wisent) are the largest surviving terrestrial animals in North America and Europe. They are typical artiodactyl (cloven hooved) ungulates, and are similar in appearance to other bovines such as cattle and true buffalo. They are broad and muscular with shaggy coats of long hair."
+}
