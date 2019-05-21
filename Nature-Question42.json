@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Fruit?",
+"answers":[
+	"Oak",
+	"Kiwi",
+	"Olive",
+	"Lemon"
+	],
+"correctAnswer":3,
+"hints":[
+	"Major agricultural importance in the Mediterranean region as the source of a particular oil",
+	"Those are harvested in the green to purple stage"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The olive, known by the botanical name Olea europaea, is a species of small tree, found in the Mediterranean Basin from Portugal to the Levant, the Arabian Peninsula, and southern Asia as far east as China, as well as the Canary Islands and Réunion. The species is cultivated in many places and considered naturalized in all the countries of the Mediterranean coast, as well as in Argentina, Saudi Arabia, Java, Norfolk Island, California, and Bermuda.\nThe olive\'s fruit, also called the olive, is of major agricultural importance in the Mediterranean region as the source of olive oil; it is one of the core ingredients in Mediterranean cuisine.\nThe fruit is a small drupe 1–2.5 cm (0.39–0.98 in) long, thinner-fleshed and smaller in wild plants than in orchard cultivars. Olives are harvested in the green to purple stage."
+}

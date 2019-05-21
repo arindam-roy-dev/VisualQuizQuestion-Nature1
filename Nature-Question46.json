@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"Name the branch of Zoology that deals with the scientic study of animal behaviour?",
+"answers":[
+	"Ecology",
+	"Physiology",
+	"Ethology",
+	"Anatomy"
+	],
+"correctAnswer":3,
+"hints":[
+	"Physiology is the scientific study of the functions and mechanisms which work within a living system",
+	"Ecology is the branch of biology which studies the interactions among organisms and their environment",
+	"Anatomy is the branch of biology concerned with the study of the structure of organisms and their parts"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Ethology is the scientific and objective study of animal behaviour, usually with a focus on behaviour under natural conditions, and viewing behaviour as an evolutionarily adaptive trait.\nEthology is a rapidly growing field. Since the dawn of the 21st century, many aspects of animal communication, emotions, culture, learning and sexuality that the scientific community long thought it understood have been re-examined, and new conclusions reached. New fields, such as neuroethology, have developed.\nUnderstanding ethology or animal behaviour can be important in animal training. Considering the natural behaviours of different species or breeds enables the trainer to select the individuals best suited to perform the required task. It also enables the trainer to encourage the performance of naturally occurring behaviours and also the discontinuance of undesirable behaviours."
+}
