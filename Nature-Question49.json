@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Which Fish can see both Infrared and Ultraviolet light?",
+"answers":[
+	"Salmon",
+	"Goldfish",
+	"Shark",
+	"Swordfish"
+	],
+"correctAnswer":2,
+"hints":[
+	"It is one of the most commonly kept aquarium fish.",
+	"breeds vary greatly in size, body shape, fin configuration and colouration (various combinations of white, yellow, orange, red, brown, and black are known)"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Goldfish have one of the most studied senses of vision in fish. Goldfish have four kinds of cone cells, which are respectively sensitive to different colours: red, green, blue and ultraviolet. The ability to distinguish between four different primary colours classifies them as tetrachromats.\nA goldfish is the only aquatic animal (or fish) on earth that can see infrared and ultraviolet light. Most goldfish retina ganglion cells and wavelength photopic spectral sensitivity functions reflects both wavelength additive mechanisms and wavelength opponent mechanisms.\nscientist discovered that they could track submarines, intercept trace reflections of communication lasers that took bad bounces of atmospheric interference, and even decode the ultra-faint emanation that are shed of trans-oceanic communication cables, and so much more."
+}

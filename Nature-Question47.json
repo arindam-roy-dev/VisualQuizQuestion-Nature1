@@ -1,0 +1,22 @@
+{
+"app":"Visual Quiz",
+"question":"Rhino horn is made up of?",
+"answers":[
+	"Keratin",
+	"Elastin",
+	"Collagen",
+	"Fibroin"
+	],
+"correctAnswer":1,
+"hints":[
+	"Same type of protein that makes up hair and fingernails as well",
+	"Elastin helps skin to return to its original position when it is poked or pinched",
+	"Collagen is the main structural protein in the extracellular space in the various connective tissues in the body",
+	"Fibroin is an insoluble protein present in silk created by spiders"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The horns are made of keratin, the same type of protein that makes up hair and fingernails.\nRhinoceros are killed by some humans for their horns, which are bought and sold on the black market, and used by some cultures for ornaments or traditional medicine. East Asia, specifically Vietnam, is the largest market for rhino horns. By weight, rhino horns cost as much as gold on the black market. People grind up the horns and consume them, believing the dust has therapeutic properties.\nBoth African species and the Sumatran rhinoceros have two horns, while the Indian and Javan rhinoceros have a single horn. The IUCN Red List identifies the Black, Javan, and Sumatran rhinoceros as critically endangered."
+}

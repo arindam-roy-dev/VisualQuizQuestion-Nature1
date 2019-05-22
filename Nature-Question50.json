@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Animal?",
+"answers":[
+	"Sheep",
+	"Camel",
+	"Ass",
+	"Llama"
+	],
+"correctAnswer":4,
+"hints":[
+	"They appear only in South America",
+	"The wool produced by a it is very soft and lanolin-free"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":2
+	},
+"aboutAnswer":"The llama is a domesticated South American camelid, widely used as a meat and pack animal by Andean cultures since the Pre-Columbian era.\nLlamas typically live for 15 to 25 years, with some individuals surviving 30 years or more. They are very social animals and live with other llamas as a herd. The wool produced by a llama is very soft and lanolin-free. Llamas are intelligent and can learn simple tasks after a few repetitions. When using a pack, they can carry about 25 to 30% of their body weight for 8 to 13 km (5–8 miles).\nLlamas appear to have originated from the central plains of North America about 40 million years ago. They migrated to South America about three million years ago during the Great American Interchange. By the end of the last ice age (10,000–12,000 years ago), camelids were extinct in North America."
+}
