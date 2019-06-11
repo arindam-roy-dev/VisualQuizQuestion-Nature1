@@ -1,0 +1,22 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Bird?",
+"answers":[
+	"Macaw",
+	"Wood Duck",
+	"Golden Pheasant",
+	"Keel-billed Toucan"
+	],
+"correctAnswer":3,
+"hints":[
+	"They feed on the ground on grain, but roost in trees at night",
+	"During winter, flocks tend to forage close to human settlements at the edge of forest",
+	"They prefer to run and spend most of their time on the ground",
+	"They can suddenly burst upwards at great speed and with a distinctive wing sound"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":2
+	},
+"aboutAnswer":"The Golden Pheasant or Chinese pheasant (Chrysolophus pictus) is a Game bird of the order Galliformes (gallinaceous birds) and the family Phasianidae (pheasants).\nIt is native to forests in mountainous areas of western China, but feral populations have been established in the United Kingdom, Canada, the United States, Mexico, Colombia, Peru, Bolivia, Chile, Argentina, Uruguay, the Falkland Islands, Germany, Belgium, the Netherlands, France, Ireland, Australia and New Zealand. In England they may be found in East Anglia in the dense forest landscape of the Breckland as well as Tresco on the Isles of Scilly.\nThey feed on the ground on grain, leaves and invertebrates, but they roost in trees at night. During winter, flocks tend to forage close to human settlements at the edge of forest, taking primarily wheat leaves and seeds. While they can fly clumsily in short bursts, they prefer to run and spend most of their time on the ground. If startled, they can suddenly burst upwards at great speed and with a distinctive wing sound.\nGolden pheasants lay 8 to 12 eggs at a time and will then incubate these for around 22–23 days. They tend to eat berries, grubs, seeds and other types of vegetation."
+}

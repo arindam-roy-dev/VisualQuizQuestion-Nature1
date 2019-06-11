@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Bird?",
+"answers":[
+	"Hornbill",
+	"Sparrow",
+	"Golden Pheasant",
+	"Woodpecker"
+	],
+"correctAnswer":4,
+"hints":[
+	"They forage for insect prey on the trunks and branches of trees",
+	"Often communicate by drumming with their beak, producing a reverberatory sound",
+	"They nest and roost in holes that they excavate in tree trunks"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Woodpeckers are part of the family Picidae, a group of near-passerine birds that also consist of piculets, wrynecks, and sapsuckers. Members of this family are found worldwide, except for Australia, New Guinea, New Zealand, Madagascar, and the extreme polar regions. Most species live in forests or woodland habitats, although a few species are known that live in treeless areas, such as rocky hillsides and deserts, and the Gila woodpecker specialises in exploiting cacti.\nThey mostly forage for insect prey on the trunks and branches of trees, and often communicate by drumming with their beak, producing a reverberatory sound that can be heard at some distance.\nSome species vary their diet with fruits, birds\' eggs, small animals, and tree sap. They mostly nest and roost in holes that they excavate in tree trunks, and their abandoned holes are of importance to other cavity-nesting birds.\nThey sometimes come into conflict with humans when they make holes in buildings or feed on fruit crops, but perform a useful service by their removal of insect pests on trees."
+}
