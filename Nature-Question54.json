@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Fish?",
+"answers":[
+	"Rainbow Fish",
+	"Gold Fish",
+	"Mandarin Fish",
+	"Angel Fish"
+	],
+"correctAnswer":3,
+"hints":[
+	"Also called as Dragonet",
+	"Saltwater fish",
+	"Goldfish is a freshwater fish"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":2
+	},
+"aboutAnswer":"Synchiropus splendidus, the mandarinfish or mandarin dragonet, is a small, brightly colored member of the dragonet family, which is popular in the saltwater aquarium trade.\nThe mandarinfish is native to the Pacific, ranging approximately from the Ryukyu Islands south to Australia. It can usually be found in some of the warmer waters.\nS. splendidus is one of only two vertebrate species known to have blue colouring because of cellular pigment, the other being the closely related psychedelic mandarin (S. picturatus). The name \"cyanophore\" was proposed for the blue chromatophores, or pigment-containing and light-reflecting cells. In all other known cases, the colour blue is structural, as it comes from thin-film interference from piles of flat, thin and reflecting purine crystals.\nThe mandarinfish has a body shape similar to a goby, though this is the only resemblance between the two. The vivid coloration sports a bright blue background, with swirly orange stripes and a blue-greenish face with bold blue stripes. The large pelvic fins are used for \'walking\' on the seafloor and are often mistakenly seen as the pectoral fins.\nMandarinfish are reef dwellers, preferring sheltered lagoons and inshore reefs. While they are slow-moving and fairly common within their range, they are not easily seen due to their bottom-feeding habit and their small size (reaching only about 6 cm). They feed primarily on small crustaceans and other invertebrates."
+}

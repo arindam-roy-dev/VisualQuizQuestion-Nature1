@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Agricultural Machine?",
+"answers":[
+	"Potato picker",
+	"Cotton picker",
+	"Rice Picker",
+	"Sugarcane Picker"
+	],
+"correctAnswer":2,
+"hints":[
+	"Case IH Module Express 625 was designed in collaboration with ginners and growers for harvesting the crop",
+	"Crop occurs naturally in colors of white",
+	"Crop is a soft, fluffy staple fiber that grows in a boll"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Cotton picking was originally done by hand. In many societies, like America, slave and serf labor was utilized to pick the cotton, increasing the plantation owner\'s profit margins.\nThe first practical cotton picker was invented over a period of years beginning in the late 1920s by John Daniel Rust (1892–1954) with the later help of his brother Mack Rust. Rust determined that a smooth, moist spindle could be used to strip the fibers from the boll without trapping them in the machinery. In 1933 John Rust received his first patent, and eventually, he and his brother owned forty-seven patents on cotton picking machinery.\nThere are two types of pickers in use today. One is the \"stripper\" picker, primarily found in use in Texas. They are also found in Arkansas. It removes not only the lint from the plant, but a fair deal of the plant matter as well (such as unopened bolls). Later, the plant matter is separated from the lint through a process dropping heavier matter before the lint makes it to the basket at the rear of the picker.\nThe other type of picker is the \"spindle\" picker. It uses rows of barbed spindles that rotate at high speed and remove the seed-cotton from the plant. The seed-cotton is then removed from the spindles by a counter-rotating doffer and is then blown up into the basket. Once the basket is full the picker dumps the seed-cotton into a \"module builder\". The module builder creates a compact \"brick\" of seed-cotton, weighing in at approximately 21,000 lb (16 un-ginned bales), which can be stored in the field or in the \"gin yard\" until it is ginned. Each ginned bale weighs roughly 480 lb (218.2 kg).\nIn c.2008 the Case IH Module Express 625 was designed in collaboration with ginners and growers to provide a cotton picker with the ability to build modules while harvesting the crop. An industry-exclusive on-board round module builder was offered by John Deere in 2007."
+}
