@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Insect?",
+"answers":[
+	"Honey Bee",
+	"Dragonfly",
+	"Butterfly",
+	"Goat Moth"
+	],
+"correctAnswer":4,
+"hints":[
+	"Their antennae are usually feathery with no ball or club at the end",
+	"It comprises a group of insects related to butterflies"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Moths comprise a group of insects related to butterflies, belonging to the order Lepidoptera. Most lepidopterans are moths, and there are thought to be approximately 160,000 species of moth, many of which have yet to be described. Most species of moth are nocturnal, but there are also crepuscular and diurnal species.\nDifference between butterflies and moths is that butterflies have thin antennae and (with the exception of the family Hedylidae) have small balls or clubs at the end of their antennae. Moth antennae are usually feathery with no ball on the end. The divisions are named by this principle: \"club-antennae\" (Rhopalocera) or \"varied-antennae\" (Heterocera).\nMoth larvae, or caterpillars, make cocoons from which they emerge as fully grown moths with wings. Some moth caterpillars dig holes in the ground, where they live until they are ready to turn into adult moths.\nMoths evolved long before butterflies, with fossils having been found that may be 190 million years old. Both types of Lepidoptera are thought to have evolved along with flowering plants, mainly because most modern species feed on flowering plants, both as adults and larvae. One of the earliest species thought to be a moth-ancestor is Archaeolepis mane, whose fossil fragments show scaled wings similar to caddisflies in their veining."
+}
