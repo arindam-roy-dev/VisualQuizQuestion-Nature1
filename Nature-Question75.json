@@ -1,0 +1,22 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Tree?",
+"answers":[
+	"Desert Fan Palm",
+	"Coconut Palm",
+	"Cuban Royal palm",
+	"Date palm"
+	],
+"correctAnswer":3,
+"hints":[
+	"Native to Mexico, parts of Central America and the Caribbean, and southern Florida",
+	"Best known as an ornamental",
+	"Also known as the Florida royal palm",
+	"National tree of Cuba"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":2
+	},
+"aboutAnswer":"Roystonea regia, commonly known as the Cuban royal palm or the Florida royal palm, is a species of palm that is native to Mexico, parts of Central America and the Caribbean, and southern Florida.\nA large and attractive palm, it has been planted throughout the tropics and subtropics as an ornamental tree. Although it is sometimes called R. elata, the conserved name R. regia is now the correct name for the species.\nThe royal palm reaches heights from 50 to over 80 feet tall. Populations in Cuba and Florida were long seen as separate species, but are now considered to belong to a single species.\nBest known as an ornamental, R. regia is also used as a source of thatch, construction timber, and in some forms of so-called traditional medicine, although there is currently no valid scientific evidence to support the efficacy or use of any palm species for medicinal purposes.\nThe fruit is eaten by birds and bats (which disperse the seeds) and fed to livestock. Its flowers are visited by birds and bats, and it serves as a roosting site and food source for a variety of animals.\nRoystonea regia is the national tree of Cuba, and has a religious role both in Santería and Christianity, where it is used in Palm Sunday observances."
+}

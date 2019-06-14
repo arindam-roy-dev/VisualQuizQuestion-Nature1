@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"Which is the world\'s Longest Grass?",
+"answers":[
+	"Frost Grass",
+	"Bamboo Tree",
+	"Northwind Switch Grass",
+	"Palm Tree"
+	],
+"correctAnswer":2,
+"hints":[
+	"One of the fastest-growing plants in the world",
+	"Internodal regions of the stem are usually hollow",
+	"It has a higher specific compressive strength than wood, brick or concrete"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"The bamboos are evergreen perennial flowering plants in the subfamily Bambusoideae of the grass family Poaceae. The word \"bamboo\" comes from the Dutch and/or Portuguese languages, which probably borrowed it from Malay, and some suspect that Malay borrowed it from Kannada.\nIn bamboo, as in other grasses, the internodal regions of the stem are usually hollow and the vascular bundles in the cross-section are scattered throughout the stem instead of in a cylindrical arrangement. The dicotyledonous woody xylem is also absent. The absence of secondary growth wood causes the stems of monocots, including the palms and large bamboos, to be columnar rather than tapering.\nBamboos include some of the fastest-growing plants in the world, due to a unique rhizome-dependent system. Certain species of bamboo can grow 91 cm (36 in) within a 24-hour period, at a rate of almost 4 cm (1.6 in) an hour (a growth around 1 mm every 90 seconds, or 1 inch every 40 minutes). Giant bamboos are the largest members of the grass family.\nBamboos are of notable economic and cultural significance in South Asia, Southeast Asia and East Asia, being used for building materials, as a food source, and as a versatile raw product. Bamboo has a higher specific compressive strength than wood, brick or concrete, and a specific tensile strength that rivals steel."
+}
