@@ -1,0 +1,19 @@
+{
+"app":"Visual Quiz",
+"question":"Which is the universal Recipient blood group?",
+"answers":[
+	"A",
+	"B",
+	"AB",
+	"O"
+	],
+"correctAnswer":3,
+"hints":[
+	"It\'s safe if the serum of the recipient does not contain antibodies for the blood cell antigens of the donor"
+	],
+"earn":{
+	"hints":2,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The ABO blood group system involves two antigens and two antibodies found in human blood. The two antigens are antigen A and antigen B. The two antibodies are antibody A and antibody B. The antigens are present on the red blood cells and the antibodies in the serum.\nRegarding the antigen property of the blood all human beings can be classified into 4 groups, those with antigen A (group A), those with antigen B (group B), those with both antigen A and B (group AB) and those with neither antigen (group O).\nThere is an agglutination reaction between similar antigen and antibody (for example, antigen A agglutinates the antibody A and antigen B agglutinates the antibody B). Thus, transfusion can be considered safe as long as the serum of the recipient does not contain antibodies for the blood cell antigens of the donor."
+}
