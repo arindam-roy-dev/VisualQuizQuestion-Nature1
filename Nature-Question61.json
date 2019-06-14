@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"How many Wings does a Mosquito have?",
+"answers":[
+	"2",
+	"4",
+	"6",
+	"8"
+	],
+"correctAnswer":1,
+"hints":[
+	"Less than 8",
+	"Less than 6"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Mosquitoes (alternate spelling mosquitos) are a group of about 3500 species of small insects that are a type of fly (order Diptera). Within that order they constitute the family Culicidae (from the Latin culex meaning \"gnat\"). The word \"mosquito\" is Spanish for \"little fly\".\nMosquitoes have a slender segmented body, a pair of wings, three pairs of long hair-like legs, feathery antennae, and elongated mouthparts.\nMosquitoes diverged from other insects about 226 million years ago. Fossils of primitive mosquitoes have been found that are over 90 million years old; fossils similar to modern mosquitoes, 79 million years old; fossils identical to modern mosquitoes, 46 million years old. The life cycle consists of the egg, larva, pupa, and adult.\nEggs are laid on the water surface; they hatch into motile larvae which feed on aquatic algae and organic material; pupae are breathing non-flying primitive adults.\nThe saliva of the mosquito transmitted to the host with the bite can cause itching and a rash. In addition, many species of mosquitoes inject or ingest (or both) disease-causing organisms with the bite and are thus a vector for the transmission of diseases such as malaria, yellow fever, Chikungunya, West Nile virus, dengue fever, filariasis, Zika virus and other arboviruses. Mosquitoes kill more people than any other animal: over 700,000 each year."
+}

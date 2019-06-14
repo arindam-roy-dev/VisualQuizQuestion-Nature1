@@ -1,0 +1,19 @@
+{
+"app":"Visual Quiz",
+"question":"The Colorado Beetle is a major Pest (troublesome to plants) of which type of Crop?",
+"answers":[
+	"Onion",
+	"Cabbage",
+	"Potato",
+	"Wheat"
+	],
+"correctAnswer":3,
+"hints":[
+	"They bear white, pink, red, blue, or purple flowers with yellow stamens"
+	],
+"earn":{
+	"hints":2,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The Colorado potato beetle (Leptinotarsa decemlineata), also known as the Colorado beetle, the ten-striped spearman, the ten-lined potato beetle or the potato bug, is a major pest of potato crops.\nIt is approximately 10 millimetres (0.39 in) long, with a bright yellow/orange body and five bold brown stripes along the length of each of its elytra. Native to America, it spread rapidly in potato crops across America and then Europe from 1859 onwards.\nThe beetle is native to North America, and is present in every state and province except Alaska, California, Hawaii, and Nevada. It now has a wide distribution across Europe and Asia, totalling over 16 million km2.\nIts first association with the potato plant (Solanum tuberosum) was not made until about 1859 when it began destroying potato crops in the region of Omaha, Nebraska. Its spread eastward was rapid, at an average distance of 140 km per year.\nBy 1874 it had reached the Atlantic Coast. From 1871, the American entomologist Charles Valentine Riley warned Europeans about the potential for an accidental infestation caused by the transportation of the beetle from America. From 1875, several western European countries, including Germany, Belgium, France and Switzerland, banned imports of American potatoes to avoid infestation."
+}
