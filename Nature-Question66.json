@@ -1,0 +1,22 @@
+{
+"app":"Visual Quiz",
+"question":"Which is the tallest living Mammal?",
+"answers":[
+	"Giraffe",
+	"African Elephant",
+	"Ostrich",
+	"Camel"
+	],
+"correctAnswer":1,
+"hints":[
+	"Ostrich is a Bird, not a Mammal",
+	"Hybrid camel is 2.15 m (7 ft 1 in) tall at the shoulder and 2.32 m (7 ft 7 in) tall at the hump",
+	"The largest recorded African Elephant stood 3.96 metres (13.0 ft)",
+	"Fully grown Giraffes stand 4.3–5.7 m (14.1–18.7 ft) tall"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The giraffe (Giraffa) is a genus of African even-toed ungulate mammals, the tallest living terrestrial animals and the largest ruminants.\nThe giraffe\'s chief distinguishing characteristics are its extremely long neck and legs, its horn-like ossicones, and its distinctive coat patterns. It is classified under the family Giraffidae, along with its closest extant relative, the okapi.\nIts scattered range extends from Chad in the north to South Africa in the south, and from Niger in the west to Somalia in the east. Giraffes usually inhabit savannahs and woodlands.\nTheir food source is leaves, fruits and flowers of woody plants, primarily acacia species, which they browse at heights most other herbivores cannot reach.\nThey may be preyed on by lions, leopards, spotted hyenas and African wild dogs."
+}
