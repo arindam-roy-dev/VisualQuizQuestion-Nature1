@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"What is name of this Animal?",
+"answers":[
+	"Rat",
+	"Koala",
+	"Quoll",
+	"Squirrel"
+	],
+"correctAnswer":3,
+"hints":[
+	"Native to mainland Australia, New Guinea, and Tasmania",
+	"Sleeps in hollowed-out logs or rocky dens and comes out to hunt during the night",
+	"Mostly solitary creatures, They mark their territory several kilometres away from their dens"
+	],
+"earn":{
+	"hints":2,
+	"hideAnswers":2
+	},
+"aboutAnswer":"Quolls are carnivorous marsupials native to mainland Australia, New Guinea, and Tasmania. They are primarily nocturnal and spend most of the day in a den. Of the six species of quoll, four are found in Australia and two in New Guinea.\nThey have brown or black fur and pink noses. They are largely solitary, but come together for a few social interactions such as mating which occurs during the winter season. A female gives birth to up to 18 pups, of which only six survive because she only has six teats to feed with.\nQuolls are carnivorous marsupials. They are primarily nocturnal, sleeping in hollowed-out logs or rocky dens and coming out to hunt during the night, though on rare occasions they can be seen looking for prey during the day.\nThey are mostly ground-dwelling, but it is not uncommon to see a quoll climbing a tree. Quolls mark their territory several kilometres away from their dens. A male\'s territory often overlaps many females\' territories, and male and female quolls only meet for mating. Quolls have communal toilet areas, usually on an outcropping used for marking territory and social functions. These communal latrines may have up to 100 droppings in them. Quolls are mostly solitary creatures, limiting contact with other quolls to mating or other social activities.\nQuolls eat smaller mammals, small birds, lizards, and insects. Their natural lifespan is between two and five years. All species have drastically declined in numbers since Australasia was colonised by Europeans, with one species, the eastern quoll, becoming extinct on the Australian mainland, now found only in Tasmania.\nMajor threats to their survival include the cane toad, predators such as feral cats and foxes, urban development, and poison baiting.\nConservation efforts include breeding programs in captivity, one of which is taking place in Tasmania with support from Rewilding Australia and Conjour."
+}

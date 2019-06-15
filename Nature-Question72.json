@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"What is name of this Lizard?",
+"answers":[
+	"Chameleon",
+	"Italian wall lizard",
+	"Green anole",
+	"Frilled lizard"
+	],
+"correctAnswer":4,
+"hints":[
+	"Found in northern Australia and southern New Guinea",
+	"It is a relatively large lizard, averaging 85 cm (2.79 ft) in total length, including tail",
+	"When the lizard is frightened, it produces a startling deimatic display: it gapes its mouth, exposing a bright pink or yellow lining; it spreads out its frill, displaying bright orange and red scales"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The frilled-necked lizard (Chlamydosaurus kingii), also known commonly as the frilled agama, frilled dragon or frilled lizard, is a species of lizard in the family Agamidae. The species is endemic to northern Australia and southern New Guinea.\nIts common names come from the large frill around its neck, which usually stays folded against the lizard\'s body. C. kingii is largely arboreal, spending the majority of the time in the trees. Its diet consists mainly of insects and small vertebrates. The frill-necked lizard is a relatively large lizard, averaging 85 cm (2.79 ft) in total length (including tail) and is kept as an exotic pet.\nColouration tends to be brown or grey with spots and blotches of darker colours mixed in a mottled fashion to give the appearance of tree bark. There is not one standard colour: rather, colouration varies according to the lizard\'s environment.\nThe most distinct feature of these lizards is the large ruff of skin which usually lies folded back against its head and neck. The neck frill is supported by long spines of cartilage which are connected to the jaw bones. When the lizard is frightened, it produces a startling deimatic display: it gapes its mouth, exposing a bright pink or yellow lining; it spreads out its frill, displaying bright orange and red scales; raises its body; and sometimes holds its tail above its body. This reaction is used for territorial displays, to discourage predators, and during courtship. The red and orange parts of its frill contain carotenoid pigments.\nThe bones of the frill are modified elongate hyoid types that form rods which expand the frill. Secondarily the frill can serve as a form of camouflage when relaxed; there is no standard colouration to the body, but it is usually darker than the frill."
+}
