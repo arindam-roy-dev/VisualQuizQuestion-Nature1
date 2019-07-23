@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"How many Hearts does an Octopus have?",
+"answers":[
+	"0",
+	"1",
+	"2",
+	"3"
+	],
+"correctAnswer":4,
+"hints":[
+	"There is a Systemic heart that circulates blood round the body",
+	"There are two Branchial hearts that pump it through each of the two gills"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Octopuses have a closed circulatory system, in which the blood remains inside blood vessels.\nOctopuses have three hearts; a systemic heart that circulates blood round the body and two branchial hearts that pump it through each of the two gills. The systemic heart is inactive when the animal is swimming and thus it tires quickly and prefers to crawl.\nOctopus blood contains the copper-rich protein haemocyanin to transport oxygen. This makes the blood very viscous and it requires considerable pressure to pump it round the body; octopuses\' blood pressures can exceed 75 mmHg. In cold conditions with low oxygen levels, haemocyanin transports oxygen more efficiently than haemoglobin. The haemocyanin is dissolved in the plasma instead of being carried within blood cells, and gives the blood a bluish colour.\nThe systemic heart has muscular contractile walls and consists of a single ventricle and two atria, one for each side of the body. The blood vessels consist of arteries, capillaries and veins and are lined with a cellular endothelium which is quite unlike that of most other invertebrates. The blood circulates through the aorta and capillary system, to the vena cavae, after which the blood is pumped through the gills by the auxiliary hearts and back to the main heart. Much of the venous system is contractile, which helps circulate the blood."
+}

@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"This is the nest of which Bird?",
+"answers":[
+	"Hornbill",
+	"Parrot",
+	"Baya weaver",
+	"Kingfisher"
+	],
+"correctAnswer":3,
+"hints":[
+	"This bird is found across the Indian Subcontinent and Southeast Asia",
+	"They are best known for their hanging retort shaped nests woven from leaves"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":2
+	},
+"aboutAnswer":"The baya weaver (Ploceus philippinus) is a weaverbird found across the Indian Subcontinent and Southeast Asia. Flocks of these birds are found in grasslands, cultivated areas, scrub and secondary growth.\nThey are best known for their hanging retort shaped nests woven from leaves. These nest colonies are usually found on thorny trees or palm fronds and the nests are often built near water or hanging over water where predators cannot reach easily. They are widespread and common within their range but are prone to local, seasonal movements mainly in response to rain and food availability.\nThey nest in colonies typically of up to 20-30, close to the source of food, nesting material and water. Baya weavers are best known for the elaborately woven nests constructed by the males. These pendulous nests are retort-shaped, with a central nesting chamber and a long vertical tube that leads to a side entrance to the chamber. The nests are woven with long strips of paddy leaves, rough grasses and long strips torn from palm fronds. Each strip can be between 20 and 60 cm in length.\nA male bird is known to make up to 500 trips to complete a nest. The birds use their strong beaks to strip and collect the strands, and to weave and knot them while building their nests. The nests are often built hanging over water from palm trees and often suspended from thorny Acacias and in some cases from telephone wires. Although the birds prefer thorny trees, they sometimes use avenue trees in urban areas.\nNests are often located on the eastern side of the tree, where they are believed to provide shelter from the Southwest Monsoon; however, late breeders are more likely to build their nests in other orientations relative to the trunk of the nest tree. Abandoned nests are sometimes used by mice (Mus booduga) and other birds such as munias."
+}
