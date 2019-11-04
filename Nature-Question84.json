@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"How many legs does a spider have?",
+"answers":[
+	"4 Legs",
+	"6 Legs",
+	"8 Legs",
+	"16 Legs"
+	],
+"correctAnswer":3,
+"hints":[
+	"Less than 10 Legs",
+	"Greater than 4 Legs"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Spiders are air-breathing arthropods that have eight legs and chelicerae with fangs able to inject venom.\nEach of the eight legs of a spider consists of seven distinct parts. The part closest to and attaching the leg to the cephalothorax is the coxa; the next segment is the short trochanter that works as a hinge for the following long segment, the femur; next is the spider\'s knee, the patella, which acts as the hinge for the tibia; the metatarsus is next, and it connects the tibia to the tarsus (which may be thought of as a foot of sorts); the tarsus ends in a claw made up of either two or three points, depending on the family to which the spider belongs. Although all arthropods use muscles attached to the inside of the exoskeleton to flex their limbs, spiders and a few other groups still use hydraulic pressure to extend them, a system inherited from their pre-arthropod ancestors. The only extensor muscles in spider legs are located in the three hip joints (bordering the coxa and the trochanter). As a result, a spider with a punctured cephalothorax cannot extend its legs, and the legs of dead spiders curl up.\nSpiders can generate pressures up to eight times their resting level to extend their legs, and jumping spiders can jump up to 50 times their own length by suddenly increasing the blood pressure in the third or fourth pair of legs.\nAlthough larger spiders use hydraulics to straighten their legs, unlike smaller jumping spiders they depend on their flexor muscles to generate the propulsive force for their jumps."
+}

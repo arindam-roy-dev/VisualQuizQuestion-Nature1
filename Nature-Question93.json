@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of the phobia that involves an abnormal fear of spiders?",
+"answers":[
+	"Zoophobia",
+	"Arachnophobia",
+	"Aerophobia",
+	"Hydrophobia"
+	],
+"correctAnswer":2,
+"hints":[
+	"Zoophobia is fear of animals",
+	"Aerophobia is fear of flying",
+	"Hydrophobia is fear of water"
+	],
+"earn":{
+	"hints":2,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Arachnophobia is the unreasonable fear of spiders and other arachnids such as scorpions.\nTreatment is typically by exposure therapy, where the person is presented with pictures of spiders or the spiders themselves.\nPeople with arachnophobia tend to feel uneasy in any area they believe could harbor spiders or that has visible signs of their presence, such as webs. If arachnophobes see a spider, they may not enter the general vicinity until they have overcome the panic attack that is often associated with their phobia. Some people run away, scream, cry, have emotional outbursts, experience trouble breathing, sweat, have increased heart rates, or even faint when they come in contact with an area near spiders or their webs. In some extreme cases, even a picture or a realistic drawing of a spider can trigger intense fear.\nArachnophobia may be an exaggerated form of an instinctive response that helped early humans to survive, or a cultural phenomenon that is most common in predominantly European societies."
+}

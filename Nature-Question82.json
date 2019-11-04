@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Which vitamin is necessary for Blood Clotting?",
+"answers":[
+	"Vitamin A",
+	"Vitamin K",
+	"Vitamin D",
+	"Vitamin C"
+	],
+"correctAnswer":2,
+"hints":[
+	"deficiency of this vitamin also weaken bones, potentially leading to osteoporosis",
+	"Vitamin C is used to prevent and treat scurvy, repair of tissue, increase immune system"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":2
+	},
+"aboutAnswer":"Vitamin K is a group of structurally similar, fat-soluble vitamins found in foods and in dietary supplements.\nThe human body requires vitamin K for complete synthesis of certain proteins that are needed for blood coagulation (K from Koagulation, German for \"coagulation\") or for controlling binding of calcium in bones and other tissues.\nThe vitamin K–related modification of the proteins allows them to bind calcium ions, which they cannot do otherwise. Without vitamin K, blood coagulation is seriously impaired, and uncontrolled bleeding occurs.\nPreliminary clinical research indicates that deficiency of vitamin K may weaken bones, potentially leading to osteoporosis, and may promote calcification of arteries and other soft tissues.\nChemically, the vitamin K family comprises 2-methyl-1,4-naphthoquinone (3-) derivatives. Vitamin K includes two natural vitamers: vitamin K1 and vitamin K2.[3] Vitamin K2, in turn, consists of a number of related chemical subtypes, with differing lengths of carbon side chains made of isoprenoid groups of atoms."
+}
