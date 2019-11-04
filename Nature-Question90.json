@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Spice?",
+"answers":[
+	"Saffron",
+	"Clove",
+	"Ginger",
+	"Cardamom"
+	],
+"correctAnswer":2,
+"hints":[
+	"Used in the cuisine of Asian, African, and the Near and Middle East countries, lending flavor to meats, curries, and marinades",
+	"Used in traditional medicine as the essential oil"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Cloves are the aromatic flower buds of a tree in the family Myrtaceae, Syzygium aromaticum. They are native to the Maluku Islands (or Moluccas) in Indonesia, and are commonly used as a spice.\nCloves are available throughout the year due to different harvest seasons in different countries.\nCloves are used in the cuisine of Asian, African, and the Near and Middle East countries, lending flavor to meats, curries, and marinades, as well as fruit such as apples, pears or rhubarb. Cloves may be used to give aromatic and flavor qualities to hot beverages, often combined with other ingredients such as lemon and sugar. They are a common element in spice blends such as pumpkin pie spice and speculoos spices.\nIn Mexican cuisine, cloves are best known as clavos de olor, and often accompany cumin and cinnamon. They are also used in Peruvian cuisine, in a wide variety of dishes as carapulcra and arroz con leche.\nCloves are used in traditional medicine as the essential oil, which is used as an anodyne (analgesic) mainly for dental emergencies and other disorders. The essential oil is used in aromatherapy.\nThough long-used in traditional medicine, there is little evidence that clove oil containing eugenol is effective for toothache pain or other types of pain, although one review reported efficacy of eugenol combined with zinc oxide as an analgesic for alveolar osteitis.\nStudies to determine its effectiveness for fever reduction, as a mosquito repellent, and to prevent premature ejaculation have been inconclusive. It remains unproven whether blood sugar levels are reduced by cloves or clove oil.\nUse of clove for any medicinal purpose has not been approved by the US Food and Drug Administration, and its use may cause adverse effects if taken orally by people with liver disease, blood clotting and immune system disorders, or food allergies."
+}

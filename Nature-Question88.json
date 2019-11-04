@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Which tree is this?",
+"answers":[
+	"Pine Tree",
+	"Banyan Tree",
+	"Rubber Tree",
+	"Maple Tree"
+	],
+"correctAnswer":1,
+"hints":[
+	"Native to the Northern Hemisphere, and in a few parts of the tropics in the Southern Hemisphere.",
+	"Mostly monoecious, having the male and female cones on the same tree"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"A pine is any conifer in the genus Pinus of the family Pinaceae. Pinus is the sole genus in the subfamily Pinoideae.\nThe Plant List compiled by the Royal Botanic Gardens, Kew and Missouri Botanical Garden accepts 126 species names of pines as current, together with 35 unresolved species and many more synonyms.\nPine trees are evergreen, coniferous resinous trees (or, rarely, shrubs) growing 3–80 m (10–260 ft) tall, with the majority of species reaching 15–45 m (50–150 ft) tall. The smallest are Siberian dwarf pine and Potosi pinyon, and the tallest is an 81.79 m (268.35 ft) tall ponderosa pine located in southern Oregon\'s Rogue River-Siskiyou National Forest.\nPines are long lived and typically reach ages of 100–1,000 years, some even more. The longest-lived is the Great Basin bristlecone pine, Pinus longaeva.\nThe bark of most pines is thick and scaly, but some species have thin, flaky bark. The branches are produced in regular \"pseudo whorls\", actually a very tight spiral but appearing like a ring of branches arising from the same point.\nPines are mostly monoecious, having the male and female cones on the same tree, though a few species are sub-dioecious, with individuals predominantly, but not wholly, single-sex.\nThe male cones are small, typically 1–5 cm long, and only present for a short period (usually in spring, though autumn in a few pines), falling as soon as they have shed their pollen. The female cones take 1.5–3 years (depending on species) to mature after pollination, with actual fertilization delayed one year. At maturity the female cones are 3–60 cm long. Each cone has numerous spirally arranged scales, with two seeds on each fertile scale; the scales at the base and tip of the cone are small and sterile, without seeds.\nPines are native to the Northern Hemisphere, and in a few parts of the tropics in the Southern Hemisphere."
+}

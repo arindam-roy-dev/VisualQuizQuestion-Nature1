@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Plant?",
+"answers":[
+	"Maple Tree",
+	"Tea Tree",
+	"Fern",
+	"Rubber Tree"
+	],
+"correctAnswer":3,
+"hints":[
+	"Reproduces via spores and have neither seeds nor flowers",
+	"They first appear in the fossil record about 360 million years ago",
+	"They have ability to remove some chemical pollutants from the atmosphere"
+	],
+"earn":{
+	"hints":2,
+	"hideAnswers":0
+	},
+"aboutAnswer":"A fern is a member of a group of vascular plants (plants with xylem and phloem) that reproduce via spores and have neither seeds nor flowers.\nThey differ from mosses by being vascular, i.e., having specialized tissues that conduct water and nutrients and in having life cycles in which the sporophyte is the dominant phase.\nFerns first appear in the fossil record about 360 million years ago in the late Devonian period, but many of the current families and species did not appear until roughly 145 million years ago in the early Cretaceous, after flowering plants came to dominate many environments.\nFerns are not of major economic importance, but some are used for food, medicine, as biofertilizer, as ornamental plants and for remediating contaminated soil. They have been the subject of research for their ability to remove some chemical pollutants from the atmosphere.\nSome fern species, such as bracken (Pteridium aquilinum) and water fern (Azolla filiculoides) are significant weeds world wide.\nSome fern genera, such as Azolla can fix nitrogen and make a significant input to the nitrogen nutrition of rice paddies. They also play certain roles in folklore."
+}

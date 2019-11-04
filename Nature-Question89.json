@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this fruit?",
+"answers":[
+	"Strawberry",
+	"Orange",
+	"Apricot",
+	"Cherry"
+	],
+"correctAnswer":3,
+"hints":[
+	"Native to the Northern Hemisphere, and in a few parts of the tropics in the Southern Hemisphere.",
+	"Mostly monoecious, having the male and female cones on the same tree"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":2
+	},
+"aboutAnswer":"An apricot is a fruit, or the tree that bears the fruit, of several species in the genus Prunus (stone fruits).\nThe apricot is a small tree, 8–12 m (26–39 ft) tall, with a trunk up to 40 cm (16 in) in diameter and a dense, spreading canopy.\nAccording to the UN Food and Agriculture Organization, world production of apricots in 2017 was 4.3 million tonnes, led by Turkey with 23% of the world total (table). Other major producers (in descending order) were Uzbekistan, Italy, Algeria, and Iran.\nIn a 100-gram amount, raw apricots supply 48 calories and are composed of 11% carbohydrates, 1% protein, less than 1% fat and 86% water (table). Raw apricots are a moderate source of vitamin A and vitamin C (12% of the Daily Value each).\nApricots have a chilling requirement of 300 to 900 chilling units. A dry climate is good for fruit maturation. The tree is slightly more cold-hardy than the peach, tolerating winter temperatures as cold as −30 °C (−22 °F) or lower if healthy.\nThey are hardy in USDA zones 5 through 8. A limiting factor in apricot culture is spring frosts: They tend to flower very early (in early March in western Europe), meaning spring frost can kill the flowers. Furthermore, the trees are sensitive to temperature changes during the winter season. In China, winters can be very cold, but temperatures tend to be more stable than in Europe and especially North America, where large temperature swings can occur in winter.\nHybridisation with the closely related Prunus sibirica (Siberian apricot; hardy to −50 °C (−58 °F) but with less palatable fruit) offers options for breeding more cold-tolerant plants. They prefer well-drained soils with a pH of 6.0 to 7.0."
+}

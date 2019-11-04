@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What are the male parts of a flower called?",
+"answers":[
+	"Stamen",
+	"Gynoecium",
+	"Pistil",
+	"Carpel"
+	],
+"correctAnswer":1,
+"hints":[
+	"The gynoecium is often referred to as the \"female\" portion of the flower",
+	"The gynoecium consists of (one or more) pistils"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The stamen (plural stamina or stamens) is the pollen-producing reproductive organ of a flower. Collectively the stamens form the androecium.\nA stamen typically consists of a stalk called the filament and an anther which contains microsporangia. Most commonly anthers are two-lobed and are attached to the filament either at the base or in the middle area of the anther. The sterile tissue between the lobes is called the connective, an extension of the filament containing conducting strands.\nA pollen grain develops from a microspore in the microsporangium and contains the male gametophyte.\nPollen of angiosperms must be transported to the stigma, the receptive surface of the carpel, of a compatible flower, for successful pollination to occur. After arriving, the pollen grain (an immature microgametophyte) typically completes its development. It may grow a pollen tube and undergoing mitosis to produce two sperm nuclei.\nIn the typical flower (that is, in the majority of flowering plant species) each flower has both carpels and stamens. In some species, however, the flowers are unisexual with only carpels or stamens. (monoecious = both types of flowers found on the same plant; dioecious = the two types of flower found only on different plants).\nA flower with only stamens is called androecious. A flower with only carpels is called gynoecious."
+}
