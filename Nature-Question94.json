@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"Which animal is this?",
+"answers":[
+	"Rabbit",
+	"Gerbil",
+	"Hamster",
+	"Rat"
+	],
+"correctAnswer":1,
+"hints":[
+	"They are prey animals and are therefore constantly aware of their surroundings",
+	"They survive predation by burrowing, hopping away in a zig-zag motion",
+	"Young and adult is called as bunny"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Rabbits are small mammals in the family Leporidae. Oryctolagus cuniculus includes the European rabbit species and its descendants, the world\'s 305 breeds of domestic rabbit. Sylvilagus includes 13 wild rabbit species, among them the 7 types of cottontail. The European rabbit, which has been introduced on every continent except Antarctica, is familiar throughout the world as a wild prey animal and as a domesticated form of livestock and pet.\nWith its widespread effect on ecologies and cultures, the rabbit (or bunny) is, in many areas of the world, a part of daily life—as food, clothing, a companion, and as a source of artistic inspiration.\nMale rabbits are called bucks; females are called does. An older term for an adult rabbit is coney (derived ultimately from the Latin cuniculus), while rabbit once referred only to the young animals.\nAnother term for a young rabbit is bunny, though this term is often applied informally (especially by children) to rabbits generally, especially domestic ones.\nRabbits are prey animals and are therefore constantly aware of their surroundings. For instance, in Mediterranean Europe, rabbits are the main prey of red foxes, badgers, and Iberian lynxes.\nIf confronted by a potential threat, a rabbit may freeze and observe then warn others in the warren with powerful thumps on the ground. Rabbits have a remarkably wide field of vision, and a good deal of it is devoted to overhead scanning. They survive predation by burrowing, hopping away in a zig-zag motion, and, if captured, delivering powerful kicks with their hind legs.\nTheir strong teeth allow them to eat and to bite in order to escape a struggle. The longest-lived rabbit on record, a domesticated European rabbit living in Tasmania, died at age 18. The lifespan of wild rabbits is much shorter; the average longevity of an eastern cottontail, for instance, is less than one year."
+}

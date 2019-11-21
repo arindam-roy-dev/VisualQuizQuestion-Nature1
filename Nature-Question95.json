@@ -1,0 +1,19 @@
+{
+"app":"Visual Quiz",
+"question":"Which animal is this?",
+"answers":[
+	"Tiger",
+	"Wild Cat",
+	"Ocelot",
+	"Coyote"
+	],
+"correctAnswer":3,
+"hints":[
+	"They are a small wild cat native to the southwestern United States, Mexico, Central and South America"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"The ocelot is a small wild cat native to the southwestern United States, Mexico, Central and South America. It is marked with solid black spots, streaks and stripes.\nThe ocelot\'s fur is extensively marked with solid black markings on a creamy, tawny, yellowish, reddish grey or grey background colour. The spots on head and limbs are small, but markings on the back, cheeks and flanks are open or closed bands and stripes. A few dark stripes run straight from the back of the neck up to the tip of the tail. Its neck and undersides are white, the insides of the legs are marked with a few horizontal streaks. Its round ears are marked with a bright white spot.\nThe ocelot is usually solitary and crepuscular. It scent-marks its territory by spraying urine.\nOcelots are carnivores and prey on small mammals, such as armadillos, opossums and rabbits, rodents, small birds, fish, insects and reptiles."
+}
