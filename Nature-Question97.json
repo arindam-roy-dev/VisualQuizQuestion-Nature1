@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Which plat is this?",
+"answers":[
+	"Grapes",
+	"Sorghum",
+	"Sugarcane",
+	"Sunflower"
+	],
+"correctAnswer":4,
+"hints":[
+	"Grows during the summer and into early fall",
+	"They originate in the Americas"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Helianthus is a genus of plants comprising about 70 species. Except for three species in South America, all Helianthus species are native to North America and Central America. The common names \"sunflower\" typically refer to the popular annual species Helianthus annuus, whose round flower heads in combination with the ligules look like the sun.\nThis and other species, notably Jerusalem artichoke (H. tuberosus), are cultivated in temperate regions and some tropical regions as food crops for humans, cattle, and poultry, and as ornamental plants. The species H. annuus typically grows during the summer and into early fall, with the peak growth season being mid-summer.\nPerennial sunflower species are not as common in garden use due to their tendency to spread rapidly and become invasive. The whorled sunflower, Helianthus verticillatus, was listed as an endangered species in 2014 when the U.S. Fish and Wildlife Service issued a final rule protecting it under the Endangered Species Act. The primary threats are industrial forestry and pine plantations in Alabama, Georgia, and Tennessee. They grow to 1.8 m (6 ft) and are primarily found in woodlands, adjacent to creeks and moist, prairie-like areas.\nSunflower oil is the non-volatile oil pressed from the seeds of sunflower (Helianthus annuus). Sunflower oil is commonly used in food as a frying oil, and in cosmetic formulations as an emollient. The world's total production of sunflower oil in 2014 was nearly 16 million tonnes, with Ukraine and Russia as the largest producers.\nSunflowers originate in the Americas. They were first domesticated in what is now Mexico and the Southern United States. Native American peoples grew sunflowers as a crop from Mexico to Southern Canada. In the 16th century the first crop breeds were brought from America to Europe by explorers."
+}
