@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Which flower is this?",
+"answers":[
+	"Persian pearl",
+	"Rhododendron",
+	"Pink rose",
+	"Hibiscus"
+	],
+"correctAnswer":4,
+"hints":[
+	"Colour of this flower ranges from white to pink, red, orange, peach, yellow or purple",
+	"A tea made from these flowers is served both hot and cold"
+	],
+"earn":{
+	"hints":5,
+	"hideAnswers":5
+	},
+"aboutAnswer":"Hibiscus is a genus of flowering plants in the mallow family, Malvaceae. The genus is quite large, comprising several hundred species that are native to warm temperate, subtropical and tropical regions throughout the world. Member species are renowned for their large, showy flowers and those species are commonly known simply as \"hibiscus\", or less widely known as rose mallow. Other names include hardy hibiscus, rose of sharon, and tropical hibiscus.\nSeveral species are widely cultivated as ornamental plants, notably Hibiscus syriacus and Hibiscus rosa-sinensis.\nA tea made from hibiscus flowers is known by many names around the world and is served both hot and cold. The beverage is known for its red colour, tart flavour, and vitamin C content.\nThe leaves are alternate, ovate to lanceolate, often with a toothed or lobed margin. The flowers are large, conspicuous, trumpet-shaped, with five or more petals, colour from white to pink, red, orange, peach, yellow or purple, and from 4–18 cm broad."
+}
