@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Tree?",
+"answers":[
+	"River Birch",
+	"Pando Tree",
+	"Sugar Maple",
+	"Shagbark Hickory"
+	],
+"correctAnswer":2,
+"hints":[
+	"The plant is located in the Fremont River Ranger District of the Fishlake National Forest, Utah, United States",
+	"The root system of these trees, around 80,000 years old, is among the oldest known living organisms"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Pando tree, also known as the trembling giant, is a clonal colony of an individual male quaking aspen (Populus tremuloides) determined to be a single living organism by identical genetic markers and assumed to have one massive underground root system.\nThe plant is located in the Fremont River Ranger District of the Fishlake National Forest at the western edge of the Colorado Plateau in south-central Utah, United States, around 1 mile (1.6 km) southwest of Fish Lake. Pando occupies 43 hectares (106 acres) and is estimated to weigh collectively 6,000,000 kilograms (6,600 short tons), making it the heaviest known organism.\nThe root system of Pando, at an estimated 80,000 years old, is among the oldest known living organisms.\nPando is currently thought to be dying. Though the exact reasons are not known, it is thought to be a combination of factors including drought, grazing, human development, and fire suppression.\nGrazing animals have threatened Pando\'s ability to produce young offsprings to replace trees that are dying. Human development in the area is another threat; these two threats have caused pando trees to shrink in size and decrease over the past 50 years.\nA study published in October 2018 concludes that Pando has not been growing for the past 30–40 years. Human interference was named as the primary cause, with the study specifically citing people allowing cattle and deer populations to thrive, their grazing resulting in fewer saplings and dying individual trees."
+}

@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"Which seed is this?",
+"answers":[
+	"Mustard seed",
+	"Chia Seeds",
+	"Pumpkin Seeds",
+	"Sunflower Seeds"
+	],
+"correctAnswer":1,
+"hints":[
+	"Major producers are India, Pakistan, Canada, Nepal, Hungary, Great Britain and the United States",
+	"May be colored from yellowish white to black",
+	"These seeds are a rich source of oil and protein"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Mustard seeds are the small round seeds of various mustard plants. The seeds are usually about 1 to 2 millimetres (0.039 to 0.079 in) in diameter and may be colored from yellowish white to black.\nThey are an important spice in many regional foods and may come from one of three different plants: black mustard (Brassica nigra), brown Indian mustard (B. juncea), or white/yellow mustard.\nGrinding and mixing the seeds with water, vinegar or other liquids creates the yellow condiment known as prepared mustard.\nMustard seeds generally take eight to ten days to germinate if placed under the proper conditions, which include a cold atmosphere and relatively moist soil. Mature mustard plants grow into shrubs.\nMustard grows well in temperate regions. Major producers of mustard seeds include India, Pakistan, Canada, Nepal, Hungary, Great Britain and the United States. Brown and black mustard seeds return higher yields than their yellow counterparts.\nMustard seeds are a rich source of oil and protein. The seed has oil as high as 46-48%, and whole seed meal has 43.6% protein."
+}

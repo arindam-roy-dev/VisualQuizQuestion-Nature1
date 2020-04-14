@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"What is the Scientific name Lion?",
+"answers":[
+	"Panthera leo",
+	"Panthera Onca",
+	"Panthera pardus",
+	"Panthera tigris"
+	],
+"correctAnswer":1,
+"hints":[
+	"Scientific name of Tiger is Panthera tigris",
+	"Scientific name of Jaguar is Panthera onca",
+	"Scientific name of Leopard is Panthera pardus"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The lion (Panthera leo) is a species in the family Felidae.\nPanthera is a genus within the family Felidae that was named and described by Lorenz Oken in 1816 who placed all the spotted cats in this group.\nReginald Innes Pocock revised the classification of this genus in 1916 as comprising the species tiger (P. tigris), lion (P. leo), jaguar (P. onca), and leopard (P. pardus) on the basis of common cranial features. Results of genetic analysis indicate that the snow leopard (formerly Uncia uncia) also belongs to the Panthera (P. uncia), a classification that was accepted by IUCN Red List assessors in 2008.\nThe tiger, lion, leopard, and jaguar are the only cat species with the anatomical structure that enables them to roar. The primary reason for this was formerly assumed to be the incomplete ossification of the hyoid bone. However, new studies show the ability to roar is due to other morphological features, especially of the larynx. The snow leopard does not roar. Although its hyoid bone is incompletely ossified, it lacks the special morphology of the larynx."
+}

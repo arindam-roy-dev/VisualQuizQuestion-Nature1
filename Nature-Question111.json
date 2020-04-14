@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Tree?",
+"answers":[
+	"Dragon Blood Tree",
+	"Pando Tree",
+	"Oak tree",
+	"Mushroom Tree"
+	],
+"correctAnswer":1,
+"hints":[
+	"Native to the Socotra archipelago, part of Yemen, located in the Arabian Sea",
+	"The fruits are like a fleshy berry, which changes from green to black as it gradually ripens. It ends up being an orange-red color",
+	"This evergreen species is named after its dark red resin"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Dracaena cinnabari, the Socotra dragon tree or Dragon Blood Tree, is a dragon tree native to the Socotra archipelago, part of Yemen, located in the Arabian Sea.\nIt is so called due to the red sap that the trees produce.\nThe dragon blood tree has a unique and strange appearance, with an \"upturned, densely packed crown having the shape of an uprightly held umbrella\". This evergreen species is named after its dark red resin, which is known as \"dragon\'s blood\". Its leaves are found only at the end of its youngest branches; its leaves are all shed every 3 or 4 years before new leaves simultaneously mature. Branching tends to occur when the growth of the terminal bud is stopped, due to either flowering or traumatic events.\nIts fruits are small fleshy berries containing between 1 and 4 seeds. As they develop they turn from green to black, and then become orange when ripe. The berries are eaten by birds (e.g. Onychognatus species) and thereby dispersed. The seeds are 4–5 mm in diameter and weigh on average 68 mg. The berries exude a deep red resin, known as dragon\'s blood.\nLike other monocotyledons, such as palms, the dragon\'s blood tree grows from the tip of the stem, with the long, stiff leaves borne in dense rosettes at the end (4, 5, 7). It branches at maturity to produce an umbrella-shaped crown, with leaves that measure up to 60 cm long and 3 cm wide. The trunk and the branches of the dragon blood are thick and stout and display dichotomous branching, where each of the branches repeatedly divides in two sections.\nThe dragon\'s blood tree usually produces its flowers around March, though flowering does vary with location. The flowers tend to grow at the end of the branches. The plants have inflorescences, and bear small clusters of fragrant, white or green flowers.\nThe fruits take five months to completely mature. The fruits are described as a fleshy berry, which changes from green to black as it gradually ripens. The fleshy berry fruit ends up being an orange-red color that contains one to three seeds. The berries are usually eaten and dispersed by birds and other animals."
+}

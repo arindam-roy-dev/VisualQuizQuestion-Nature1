@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Tree?",
+"answers":[
+	"Japanese Maple",
+	"Ginkgo Tree",
+	"Rhododendron",
+	"Baobab Tree"
+	],
+"correctAnswer":4,
+"hints":[
+	"They store water within the fibrous wood of the trunk, as the tree\'s diameter fluctuates with rainfall",
+	"The flowers open just before or soon after dusk, and all the pollen is released during the first night",
+	"This tree is endemic to the island of Madagascar"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":2
+	},
+"aboutAnswer":"Adansonia grandidieri, sometimes known as Grandidier\'s baobab, is the biggest and most famous of Madagascar\'s six species of baobabs. This imposing and unusual tree is endemic to the island of Madagascar, where it is an endangered species threatened by the encroachment of agricultural land.\nGrandidier\'s baobabs have massive, cylindrical, long, thick, trunks, up to three meters across, covered with smooth, reddish-grey bark. They can reach 25 to 30 m (82 to 98 ft) in height. At certain times of the year the flat-topped crowns bear bluish-green palmate leaves, dark brown floral buds or spectacular flowers with white petals. The large, dry fruits of the baobab contain kidney-shaped seeds within an edible pulp.\nThis baobab occurs in south-western Madagascar, between Lac Ihotry, (near Morombe), and Bereboka. Grandidier\'s baobab used to inhabit dry, deciduous forest, especially near seasonal rivers or lakes. However, today it is mainly found in open, agricultural land or degraded scrubland.\nThe long-lived Grandidier\'s baobab is in leaf from October to May, and flowers between May and August. The flowers, said to smell of sour watermelon, open just before or soon after dusk, and all the pollen is released during the first night.\nThe tree is pollinated by nocturnal mammals, such as fork-marked lemurs, and insects like the Hawk Moth. The lemurs move through the canopies, inserting their snouts into the white flowers and licking nectar from the petal bases, resulting in pollen being deposited in the lemurs\' faces, whereas the moth is slightly more effective at pollination because it is able to fly from tree to tree with most of its body covered in pollen.\nThe species bears ripe fruit in November and December.\nLack of water can sometimes be a problem for plants in Madagascar. It appears that the baobab overcomes this by storing water within the fibrous wood of the trunk, as the tree\'s diameter fluctuates with rainfall."
+}
