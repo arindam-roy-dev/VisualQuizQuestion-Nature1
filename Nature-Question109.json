@@ -1,0 +1,19 @@
+{
+"app":"Visual Quiz",
+"question":"What kind of ant it is?",
+"answers":[
+	"Fire ant",
+	"Carpenter ant",
+	"Electric ant",
+	"Honeypot ant"
+	],
+"correctAnswer":4,
+"hints":[
+	"Uses their own bodies as living storage, used later by their fellow ants when food is otherwise scarce"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Honey ants, also called honeypot ants, are ants which have specialized workers (repletes, plerergates, or rotunds) that are gorged with food by workers to the point that their abdomens swell enormously.\nOther ants then extract nourishment from them, through the process of trophallaxis. They function as living larders.\nMany insects, notably honey bees and some wasps, collect and store liquid for use at a later date. However, these insects store their food within their nest or in combs.\nHoney ants are unique in using their own bodies as living storage, used later by their fellow ants when food is otherwise scarce. When the liquid stored inside a honeypot ant is needed, the worker ants stroke the antennae of the honeypot ant, causing the honeypot ant to regurgitate the stored liquid from its crop.\nThe abdomen of species like Camponotus inflatus consists of hard dorsal sclerites (stiff plates) connected by a softer, more flexible arthrodial membrane. When the abdomen is empty, the arthrodial membrane is folded and the sclerites overlap, but when the abdomen fills the arthrodial membrane becomes fully stretched, leaving the sclerites widely separated."
+}

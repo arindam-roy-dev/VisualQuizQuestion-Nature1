@@ -1,0 +1,22 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of these human Bones?",
+"answers":[
+	"Thoracic vertebrae",
+	"Sternum",
+	"Cervical vertebrae",
+	"Lumbar vertebrae"
+	],
+"correctAnswer":3,
+"hints":[
+	"It consists of 7 bones, from top to bottom, C1, C2, C3, C4, C5, C6, and C7",
+	"Thoracic vertebrae consists of 12 bones",
+	"Lumbar vertebrae consists of 5 bones",
+	"Sternum is a long flat bone located in the central part of the chest"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"In tetrapods, cervical vertebrae (singular: vertebra) are the vertebrae of the neck, immediately below the skull.\nIn humans, cervical vertebrae are the smallest of the true vertebrae and can be readily distinguished from those of the thoracic or lumbar regions by the presence of a foramen (hole) in each transverse process, through which the vertebral artery, vertebral veins, and inferior cervical ganglion pass. The remainder of this article focuses upon human anatomy.\nBy convention, the cervical vertebrae are numbered, with the first one (C1) closest to the skull and higher numbered vertebrae (C2–C7) proceeding away from the skull and down the spine.\nThe vertebra prominens, or C7, has a distinctive long and prominent spinous process, which is palpable from the skin surface. Sometimes, the seventh cervical vertebra is associated with an abnormal extra rib, known as a cervical rib, which develops from the anterior root of the transverse process.\nThese ribs are usually small, but may occasionally compress blood vessels (such as the subclavian artery or subclavian vein) or nerves in the brachial plexus, causing pain, numbness, tingling, and weakness in the upper limb, a condition known as thoracic outlet syndrome. Very rarely, this rib occurs in a pair."
+}

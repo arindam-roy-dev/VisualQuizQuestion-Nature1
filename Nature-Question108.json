@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Dinosour?",
+"answers":[
+	"Tyrannosaurus",
+	"Brachiosaurus",
+	"Apatosaurus",
+	"Archaeopteryx"
+	],
+"correctAnswer":1,
+"hints":[
+	"One of the largest land carnivores of all time",
+	"Archaeopteryx is bird-like dinosaurs"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Tyrannosaurus is a genus of coelurosaurian theropod dinosaur.\nThe species Tyrannosaurus rex, often called T. Rex or colloquially T-Rex, is one of the most well-represented of the large theropods.\nTyrannosaurus lived throughout what is now western North America, on what was then an island continent known as Laramidia. Tyrannosaurus had a much wider range than other tyrannosaurids.\nFossils are found in a variety of rock formations dating to the Maastrichtian age of the upper Cretaceous Period, 68 to 66 million years ago. It was the last known member of the tyrannosaurids, and among the last non-avian dinosaurs to exist before the Cretaceous–Paleogene extinction event.\nMore than fifty major specimens of Tyrannosaurus rex have been identified, some of which are nearly complete skeletons. Soft tissue and proteins have been reported in at least one of these specimens.\nThe abundance of fossil material has allowed significant research into many aspects of its biology, including its life history and biomechanics. The feeding habits, physiology and potential speed of Tyrannosaurus rex are a few subjects of debate.\nIts taxonomy is also controversial, as some scientists consider Tarbosaurus bataar from Asia to be a second Tyrannosaurus species while others maintain Tarbosaurus is a separate genus. Several other genera of North American tyrannosaurids have also been synonymized with Tyrannosaurus.\nTyrannosaurus rex was one of the largest land carnivores of all time. One of the largest and the most complete specimens, nicknamed Sue (FMNH PR2081), is located at the Field Museum of Natural History."
+}
