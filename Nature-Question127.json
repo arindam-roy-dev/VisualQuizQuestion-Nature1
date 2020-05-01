@@ -1,0 +1,19 @@
+{
+"app":"Visual Quiz",
+"question":"Which bird is this?",
+"answers":[
+	"Kingfisher",
+	"Parrot",
+	"Kingfisher",
+	"Cuckoo"
+	],
+"correctAnswer":2,
+"hints":[
+	"Some species to imitate human speech enhances their popularity as pets"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Parrots are birds of the roughly 393 species in 92 genera comprising the order Psittaciformes, found mostly in tropical and subtropical regions.\nParrots have a generally pantropical distribution with several species inhabiting temperate regions in the Southern Hemisphere, as well. The greatest diversity of parrots is in South America and Australasia.\nCharacteristic features of parrots include a strong, curved bill, an upright stance, strong legs, and clawed zygodactyl feet. Many parrots are vividly coloured, and some are multi-coloured.\nThey form the most variably sized bird order in terms of length. The most important components of most parrots\' diets are seeds, nuts, fruit, buds, and other plant material. A few species sometimes eat animals and carrion, while the lories and lorikeets are specialised for feeding on floral nectar and soft fruits.\nAlmost all parrots nest in tree hollows (or nest boxes in captivity), and lay white eggs from which hatch altricial (helpless) young.\nParrots, along with ravens, crows, jays, and magpies, are among the most intelligent birds, and the ability of some species to imitate human speech enhances their popularity as pets.\nTrapping wild parrots for the pet trade, as well as hunting, habitat loss, and competition from invasive species, has diminished wild populations, with parrots being subjected to more exploitation than any other group of birds.\nMeasures taken to conserve the habitats of some high-profile charismatic species have also protected many of the less charismatic species living in the same ecosystems."
+}

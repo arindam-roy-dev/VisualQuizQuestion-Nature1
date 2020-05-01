@@ -1,0 +1,22 @@
+{
+"app":"Visual Quiz",
+"question":"Which is the first life forms to appear on Earth?",
+"answers":[
+	"Bacteria",
+	"Fern",
+	"Dinosaur",
+	"Ostracoderm"
+	],
+"correctAnswer":1,
+"hints":[
+	"Earliest direct evidence of life on Earth is of 3.45 billion years old",
+	"Dinosaurs first appeared during the Triassic period, between 243 and 233.23 million years ago",
+	"Ferns first appeared about 360 million years ago",
+	"Ostracoderm first appeared about 420 million years ago"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Bacteria are a type of biological cell. They constitute a large domain of prokaryotic microorganisms.\nTypically a few micrometres in length, bacteria have a number of shapes, ranging from spheres to rods and spirals.\nBacteria were among the first life forms to appear on Earth, and are present in most of its habitats. Bacteria inhabit soil, water, acidic hot springs, radioactive waste and the deep biosphere of the earth\'s crust. Bacteria also live in symbiotic and parasitic relationships with plants and animals.\nMost bacteria have not been characterised, and only about 27 percent of the bacterial phyla have species that can be grown in the laboratory. The study of bacteria is known as bacteriology, a branch of microbiology.\nNearly all animal life is dependent on bacteria for survival as only bacteria and some archaea possess the genes and enzymes necessary to synthesize vitamin B12, also known as cobalamin, and provide it through the food chain. Vitamin B12 is a water-soluble vitamin that is involved in the metabolism of every cell of the human body.\nIt is a cofactor in DNA synthesis, and in both fatty acid and amino acid metabolism. It is particularly important in the normal functioning of the nervous system via its role in the synthesis of myelin.\nThere are typically 40 million bacterial cells in a gram of soil and a million bacterial cells in a millilitre of fresh water. There are approximately 5×1030 bacteria on Earth, forming a biomass which exceeds that of all plants and animals.\nBacteria are vital in many stages of the nutrient cycle by recycling nutrients such as the fixation of nitrogen from the atmosphere. The nutrient cycle includes the decomposition of dead bodies; bacteria are responsible for the putrefaction stage in this process.\nIn humans and most animals the largest number of bacteria exist in the gut, and a large number on the skin. The vast majority of the bacteria in the body are rendered harmless by the protective effects of the immune system, though many are beneficial, particularly in the gut flora.\nHowever, several species of bacteria are pathogenic and cause infectious diseases, including cholera, syphilis, anthrax, leprosy, and bubonic plague. The most common fatal bacterial diseases are respiratory infections. Tuberculosis alone kills about 2 million people per year, mostly in sub-Saharan Africa.\nAntibiotics are used to treat bacterial infections and are also used in farming, making antibiotic resistance a growing problem.\nIn industry, bacteria are important in sewage treatment and the breakdown of oil spills, the production of cheese and yogurt through fermentation, the recovery of gold, palladium, copper and other metals in the mining sector, as well as in biotechnology, and the manufacture of antibiotics and other chemicals."
+}

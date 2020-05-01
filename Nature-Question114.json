@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What kind of Duck is this?",
+"answers":[
+	"Pheasant",
+	"Macaw",
+	"Mandarin duck",
+	"Toucan"
+	],
+"correctAnswer":3,
+"hints":[
+	"Native to the East Asia",
+	"They feed mainly near dawn or dusk, perching in trees or on the ground during the day"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The mandarin duck (Aix galericulata) is a perching duck species native to the East Palearctic.\nIt is medium-sized, at 41–49 cm (16–19 in) long with a 65–75 cm (26–30 in) wingspan.\nIt is closely related to the North American wood duck, the only other member of the genus Aix. Aix is an Ancient Greek word which was used by Aristotle to refer to an unknown diving bird, and galericulata is the Latin for a wig, derived from galerum, a cap or bonnet.\nLike many other species of ducks, the male undergoes a moult after the mating season into eclipse plumage. When in eclipse plumage, the male looks similar to the female, but can be told apart by its bright yellow-orange or red beak, lack of any crest, and a less-pronounced eye-stripe.\nThe species was once widespread in East Asia, but large-scale exports and the destruction of its forest habitat have reduced populations in eastern Russia and in China to below 1,000 pairs in each country; Japan, however, is thought to still hold some 5,000 pairs. The Asian populations are migratory, overwintering in lowland eastern China and southern Japan.\nThe habitats it prefers in its breeding range are the dense, shrubby forested edges of rivers and lakes. It mostly occurs in low-lying areas, but it may breed in valleys at altitudes of up to 1,500 m (4,900 ft).\nIn winter, it additionally occurs in marshes, flooded fields, and open rivers. While it prefers fresh water, it may also be seen wintering in coastal lagoons and estuaries.\nIn its introduced European range, it lives in more open habitat than in its native range, around the edges lakes, water meadows, and cultivated areas with woods nearby.\nMandarins feed by dabbling or walking on land. They mainly eat plants and seeds, especially beech mast. The species will also add snails, insects and small fish to its diet. The diet of mandarin ducks changes seasonally; in the fall and winter, they mostly eat acorns and grains. In the spring, they mostly eat insects, snails, fish and aquatic plants. In the summer, they eat dew worms, small fish, frogs, mollusks, and small snakes.\nThey feed mainly near dawn or dusk, perching in trees or on the ground during the day."
+}

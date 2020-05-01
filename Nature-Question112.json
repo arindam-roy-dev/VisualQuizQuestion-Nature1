@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Which bird is this?",
+"answers":[
+	"Ibis",
+	"Flamingo",
+	"Kingfisher",
+	"Hoopoe"
+	],
+"correctAnswer":4,
+"hints":[
+	"Widespread in Europe, Asia, and North Africa, Sub-Saharan Africa and Madagascar",
+	"Most European and north Asian birds migrate to the tropics in winter"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":2
+	},
+"aboutAnswer":"Hoopoes are colourful birds found across Africa, Asia, and Europe, notable for their distinctive \"crown\" of feathers. Three living and one extinct species are recognised, though for many years all were lumped as a single species—Upupa epops.\nThe hoopoe was classified in the clade Coraciiformes, which also includes kingfishers, bee-eaters, and rollers. A close relationship between the hoopoe and the wood hoopoes is also supported by the shared and unique nature of their stapes.\nHoopoes are widespread in Europe, Asia, and North Africa, Sub-Saharan Africa and Madagascar.\nMost European and north Asian birds migrate to the tropics in winter. In contrast, the African populations are sedentary all year. The species has been a vagrant in Alaska; U. e. saturata was recorded there in 1975 in the Yukon Delta.\nHoopoes have been known to breed north of their European range, and in southern England during warm, dry summers that provide plenty of grasshoppers and similar insects, although as of the early 1980s northern European populations were reported to be in the decline, possibly due to changes in climate.\nThe hoopoe has two basic requirements of its habitat: bare or lightly vegetated ground on which to forage and vertical surfaces with cavities (such as trees, cliffs or even walls, nestboxes, haystacks, and abandoned burrows) in which to nest. These requirements can be provided in a wide range of ecosystems, and as a consequence the hoopoe inhabits a wide range of habitats such as heathland, wooded steppes, savannas and grasslands, as well as forest glades. The Madagascar subspecies also makes use of more dense primary forest.\nThe modification of natural habitats by humans for various agricultural purposes has led to hoopoes becoming common in olive groves, orchards, vineyards, parkland and farmland, although they are less common and are declining in intensively farmed areas. Hunting is of concern in southern Europe and Asia."
+}
