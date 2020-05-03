@@ -2,10 +2,10 @@
 "app":"Visual Quiz",
 "question":"What kind of Duck is this?",
 "answers":[
-	"Pheasant",
-	"Macaw",
+	"Mallard",
+	"Marbled duck",
 	"Mandarin duck",
-	"Toucan"
+	"West Indian whistling duck"
 	],
 "correctAnswer":3,
 "hints":[

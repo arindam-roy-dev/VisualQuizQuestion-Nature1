@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"Which Vegetable is this?",
+"answers":[
+	"Carrots",
+	"Asparagus",
+	"Lemongrass",
+	"Lotus root"
+	],
+"correctAnswer":2,
+"hints":[
+	"Native to Europe and western temperate Asia",
+	"Only young shoots are commonly eaten: once the buds start to open, the shoots quickly turn woody",
+	"Cooked as an appetizer, vegetable side dish or stir-fried"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Asparagus, or garden asparagus, folk name sparrow grass, scientific name Asparagus officinalis, is a perennial flowering plant species in the genus Asparagus. Its young shoots are used as a spring vegetable.\nIt was once classified in the lily family, like the related Allium species, onions and garlic. However, genetic research places lilies, Allium, and asparagus in three separate families—the Liliaceae, Amaryllidaceae, and Asparagaceae, respectively—with the Amaryllidaceae and Asparagaceae being grouped together in the order Asparagales.\nSources differ as to the native range of Asparagus officinalis, but generally include most of Europe and western temperate Asia. It is widely cultivated as a vegetable crop.\nOnly young asparagus shoots are commonly eaten: once the buds start to open (\"ferning out\"), the shoots quickly turn woody.\nWater makes up 93% of asparagus\'s composition.\nAsparagus is low in calories and is very low in sodium. It is a good source of vitamin B6, calcium, magnesium, and zinc, and a very good source of dietary fibre, protein, beta-carotene, vitamin C, vitamin E, vitamin K, thiamin, riboflavin, rutin, niacin, folic acid, iron, phosphorus, potassium, copper, manganese, and selenium, as well as chromium, a trace mineral that regulates the ability of insulin to transport glucose from the bloodstream into cells.\nThe amino acid asparagine gets its name from asparagus, as the asparagus plant is relatively rich in this compound.\nThe shoots are prepared and served in a number of ways around the world, typically as an appetizer or vegetable side dish. In Asian-style cooking, asparagus is often stir-fried."
+}

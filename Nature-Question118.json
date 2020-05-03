@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"This is the Flower of which Fruit?",
+"answers":[
+	"Water melon",
+	"Ivy gourd",
+	"Squash",
+	"Pumpkin"
+	],
+"correctAnswer":4,
+"hints":[
+	"The seeds are often roasted and eaten as a snack",
+	"deep yellow to orange in coloration",
+	"Frequently carved as jack-o\'-lanterns for decoration around Halloween"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"A pumpkin is a cultivar of winter squash that is round with smooth, slightly ribbed skin, and most often deep yellow to orange in coloration. The thick shell contains the seeds and pulp.\nThe name is most commonly used for cultivars of Cucurbita pepo, but some cultivars of Cucurbita maxima, C. argyrosperma, and C. moschata with similar appearance are also sometimes called \"pumpkin\".\nNative to North America (northeastern Mexico and the southern United States), pumpkins are one of the oldest domesticated plants, having been used as early as 7,500 to 5,000 BC.\nPumpkins are widely grown for commercial use and as food, aesthetics, and recreational purposes. Pumpkin pie, for instance, is a traditional part of Thanksgiving meals in Canada and the United States.\nPumpkins are frequently carved as jack-o\'-lanterns for decoration around Halloween, although commercially canned pumpkin purée and pumpkin pie fillings are usually made from different kinds of winter squash than the ones used for jack-o\'-lanterns.\nPumpkins are grown all around the world for a variety of reasons ranging from agricultural purposes (such as animal feed) to commercial and ornamental sales. Of the seven continents, only Antarctica is unable to produce pumpkins. The traditional American pumpkin used for jack-o-lanterns is the Connecticut field variety.\nPumpkins are very versatile in their uses for cooking. Most parts of the pumpkin are edible, including the fleshy shell, the seeds, the leaves, and even the flowers. In the United States and Canada, pumpkin is a popular Halloween and Thanksgiving staple. Pumpkin purée is sometimes prepared and frozen for later use.\nWhen ripe, the pumpkin can be boiled, steamed, or roasted. In its native North America, pumpkins are a very important, traditional part of the autumn harvest, eaten mashed and making its way into soups and purées.\nOften, it is made into pumpkin pie, various kinds of which are a traditional staple of the Canadian and American Thanksgiving holidays. In Canada, Mexico, the United States, Europe and China, the seeds are often roasted and eaten as a snack."
+}

@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Protein Synthesis is a core biological process. Where it happens?",
+"answers":[
+	"Inside Cells",
+	"Inside Leaves",
+	"Inside Liver",
+	"Inside Blood"
+	],
+"correctAnswer":1,
+"hints":[
+	"Balancs the loss of cellular proteins through the production of new proteins",
+	"A section of DNA encoding a protein is converted into a template molecule called messenger RNA"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Protein biosynthesis (or protein synthesis) is a core biological process, occurring inside cells, balancing the loss of cellular proteins (via degradation or export) through the production of new proteins.\nProteins perform a variety of critical functions as enzymes, structural proteins or hormones and therefore, are crucial biological components.\nProtein synthesis is a very similar process for both prokaryotes and eukaryotes but there are some distinct differences.\nProtein synthesis can be divided broadly into two phases - transcription and translation.\nDuring transcription, a section of DNA encoding a protein, known as a gene, is converted into a template molecule called messenger RNA. This conversion is carried out by enzymes, known as RNA polymerases, in the nucleus of the cell. In eukaryotes, this messenger RNA (mRNA) is initially produced in a premature form (pre-mRNA) which undergoes post-transcriptional modifications to produce mature mRNA. The mature mRNA is exported from the nucleus via nuclear pores to the cytoplasm of the cell for translation to occur.\nDuring translation, the mRNA is read by ribosomes which use the nucleotide sequence of the mRNA to determine the sequence of amino acids. The ribosomes catalyse the formation of covalent peptide bonds between the encoded amino acids to form a polypeptide chain.\nProtein biosynthesis has a key role in disease as changes and errors in this process, through underlying DNA mutations or protein misfolding, are often the underlying causes of a disease."
+}
