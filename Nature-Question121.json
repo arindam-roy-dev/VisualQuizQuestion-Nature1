@@ -1,0 +1,42 @@
+<<<<<<< HEAD
+﻿{
+"app":"Visual Quiz",
+"question":"Which large marine mammals are sometimes referred to as \'Sea Cows\'?",
+"answers":[
+	"Octopus",
+	"Manatees",
+	"Seal",
+	"Walrus"
+	],
+"correctAnswer":2,
+"hints":[
+	"They spend approximately 50% of the day sleeping submerged",
+	"Octopus is not a mammal"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Manatees are large, fully aquatic, mostly herbivorous marine mammals sometimes known as sea cows.\nManatees weigh 400 to 550 kilograms (880 to 1,210 lb), and average 2.8 to 3.0 metres (9.2 to 9.8 ft) in length, sometimes growing to 4.6 metres (15 ft) and 1,775 kilograms (3,913 lb). The females tend to be larger and heavier.\nAt birth, baby manatees weigh about 30 kilograms (66 lb) each. The manatee has a large, flexible, prehensile upper lip, used to gather food and eat and for social interaction and communication. Manatees have shorter snouts than their fellow sirenians, the dugongs.\nThe lids of manatees\' small, widely spaced eyes close in a circular manner. The adults have no incisor or canine teeth, just a set of cheek teeth, which are not clearly differentiated into molars and premolars. These teeth are repeatedly replaced throughout life, with new teeth growing at the rear as older teeth fall out from farther forward in the mouth, somewhat as elephants\' teeth do. At any time, a manatee typically has no more than six teeth in each jaw of its mouth.\nIts tail is paddle-shaped, and is the clearest visible difference between manatees and dugongs; a dugong tail is fluked, similar in shape to that of a whale. The female manatee has two teats, one under each flipper, a characteristic that was used to make early links between the manatee and elephants.\nThe manatee is unusual among mammals in having just six cervical vertebrae, a number that may be due to mutations in the homeotic genes. All other mammals have seven cervical vertebrae.\nApart from mothers with their young, or males following a receptive female, manatees are generally solitary animals. Manatees spend approximately 50% of the day sleeping submerged, surfacing for air regularly at intervals of less than 20 minutes. The remainder of the time is mostly spent grazing in shallow waters at depths of 1–2 metres (3.3–6.6 ft). The Florida subspecies (T. m. latirostris) has been known to live up to 60 years.\nGenerally, manatees swim at about 5 to 8 kilometres per hour (3 to 5 mph). However, they have been known to swim at up to 30 kilometres per hour (20 mph) in short bursts.\nManatees are capable of understanding discrimination tasks and show signs of complex associative learning. They also have good long-term memory. They demonstrate discrimination and task-learning abilities similar to dolphins and pinnipeds in acoustic and visual studies.\nManatees emit a wide range of sounds used in communication, especially between cows and their calves. Their ears are large internally but the external openings are small, and they are located four inches behind each eye.\nManatees are herbivores and eat over 60 different freshwater (e.g., floating hyacinth, pickerel weed, alligator weed, water lettuce, hydrilla, water celery, musk grass, mangrove leaves) and saltwater plants (e.g., sea grasses, shoal grass, manatee grass, turtle grass, widgeon grass, sea clover, and marine algae). Using their divided upper lip, an adult manatee will commonly eat up to 10%–15% of their body weight (about 50 kg) per day.\nConsuming such an amount requires the manatee to graze for up to seven hours a day. To be able to cope with the high levels of cellulose in their plant based diet, manatees utilize hindgut fermentation to help with the digestion process. Manatees have been known to eat small numbers of fish from nets.\nThere are three accepted living species of Trichechidae, representing three of the four living species in the order Sirenia: the Amazonian manatee, the West Indian manatee, and the West African manatee."
+=======
+{
+"app":"Visual Quiz",
+"question":"Which bird is this?",
+"answers":[
+	"Ibis",
+	"Flamingo",
+	"Kingfisher",
+	"Hoopoe"
+	],
+"correctAnswer":4,
+"hints":[
+	"Widespread in Europe, Asia, and North Africa, Sub-Saharan Africa and Madagascar",
+	"Most European and north Asian birds migrate to the tropics in winter"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":2
+	},
+"aboutAnswer":"Hoopoes are colourful birds found across Africa, Asia, and Europe, notable for their distinctive \"crown\" of feathers. Three living and one extinct species are recognised, though for many years all were lumped as a single species—Upupa epops.\nThe hoopoe was classified in the clade Coraciiformes, which also includes kingfishers, bee-eaters, and rollers. A close relationship between the hoopoe and the wood hoopoes is also supported by the shared and unique nature of their stapes.\nHoopoes are widespread in Europe, Asia, and North Africa, Sub-Saharan Africa and Madagascar.\nMost European and north Asian birds migrate to the tropics in winter. In contrast, the African populations are sedentary all year. The species has been a vagrant in Alaska; U. e. saturata was recorded there in 1975 in the Yukon Delta.\nHoopoes have been known to breed north of their European range, and in southern England during warm, dry summers that provide plenty of grasshoppers and similar insects, although as of the early 1980s northern European populations were reported to be in the decline, possibly due to changes in climate.\nThe hoopoe has two basic requirements of its habitat: bare or lightly vegetated ground on which to forage and vertical surfaces with cavities (such as trees, cliffs or even walls, nestboxes, haystacks, and abandoned burrows) in which to nest. These requirements can be provided in a wide range of ecosystems, and as a consequence the hoopoe inhabits a wide range of habitats such as heathland, wooded steppes, savannas and grasslands, as well as forest glades. The Madagascar subspecies also makes use of more dense primary forest.\nThe modification of natural habitats by humans for various agricultural purposes has led to hoopoes becoming common in olive groves, orchards, vineyards, parkland and farmland, although they are less common and are declining in intensively farmed areas. Hunting is of concern in southern Europe and Asia."
+>>>>>>> 62959b731c8d6b425a8d9df450872b03b0ea355d
+}
