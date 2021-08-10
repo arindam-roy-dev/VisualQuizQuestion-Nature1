@@ -1,0 +1,20 @@
+﻿{
+"app":"Visual Quiz",
+"question":"How many bones does a human have?",
+"answers":[
+	"192",
+	"206",
+	"306",
+	"1008"
+	],
+"correctAnswer":2,
+"hints":[
+	"A baby\'s body has about 300 bones at birth",
+	"These eventually fuse (grow together)"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"The human skeleton of an adult consists of around 206 to 213 bones, and there are 300 bones in children, depending on the counting of sternum (which may alternatively be included as the manubrium, body of sternum, and the xiphoid process). It is composed of 300 bones at birth, but later decreases to 80 bones in the axial skeleton and 126 bones in the appendicular skeleton. Many small accessory bones, such as some sesamoid bones, are not included in this count. There are 20 major bones.\nAs a human ages, some of its bones fuse, a process which typically lasts until sometime within the third decade of life. Therefore, the number of bones in an individual may be evaluated differently throughout their life. In addition, the bones of the skull and face are counted as separate bones, despite being fused naturally. Some reliable sesamoid bones such as the pisiform are counted, while others, such as the hallux sesamoids, are not.\nIndividuals may have more or fewer bones than the average (even accounting for developmental stage) owing to anatomical variations. The most common variations include sutural (wormian) bones, which are located along the sutural lines on the back of the skull, and sesamoid bones which develop within some tendons, mainly in the hands and feet.\nSome individuals may also have additional (i.e., supernumerary) cervical ribs or lumbar vertebrae. Amputations or other injuries may result in the loss of bones. Complete bone fractures may split one bone into multiple pieces. Other genetic conditions may result in abnormally higher (e.g. polydactyly or conjoined twins) or lower (e.g. oligodactyly) counts of bones."
+}

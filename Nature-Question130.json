@@ -1,0 +1,20 @@
+﻿{
+"app":"Visual Quiz",
+"question":"Which fruit is this?",
+"answers":[
+	"Lychee",
+	"Pecan",
+	"Coconut",
+	"Cherry"
+	],
+"correctAnswer":2,
+"hints":[
+	"Native to the southern United States and northern Mexico",
+	"The seed is an edible nut used as a snack and in various recipes, such as candy and pie"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The pecan (Carya illinoinensis) is a species of hickory native to the southern United States and northern Mexico in the region of the Mississippi River.\nThe tree is cultivated for its seed in the southern United States, primarily in Georgia, New Mexico, Texas and in Mexico, which produces nearly half of the world total.\nThe seed is an edible nut used as a snack and in various recipes, such as praline candy and pecan pie.\nThe pecan, in various aspects, is included in state symbols of Alabama, Arkansas, California, Oklahoma and Texas.\nA pecan nut is 4% water, 72% fat, 9% protein, and 14% carbohydrates (see table). In a 100 g reference amount, pecans provide 691 Calories and a rich source (20% or more of the Daily Value, DV) of total fat, protein, dietary fiber (38% DV), manganese (214% DV), magnesium (34% DV), phosphorus (40% DV), zinc (48% DV), and thiamin (57% DV) (see table).\nPecans are a moderate source (10-19% DV) of iron and B vitamins. Pecan fat content consists principally of monounsaturated fatty acids, mainly oleic acid (57% of total fat), and the polyunsaturated fatty acid, linoleic acid (30% of total fat)."
+}
