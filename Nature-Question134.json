@@ -1,0 +1,21 @@
+﻿{
+"app":"Visual Quiz",
+"question":"Which flower is this?",
+"answers":[
+	"Blue Poppy",
+	"Blue Daisy",
+	"Bluebell",
+	"Bellflower"
+	],
+"correctAnswer":3,
+"hints":[
+	"It is found in Belgium, Great Britain, France, Ireland, Portugal, Netherlands, Spain, Germany, Italy and Romania",
+	"They are most successful on slightly acid soils",
+	"Flowering and leafing early before the canopy closes in late spring"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Hyacinthoides non-scripta (formerly Endymion non-scriptus or Scilla non-scripta) is a bulbous perennial plant, found in Atlantic areas from north-western Spain to the British Isles, and also frequently used as a garden plant. It is known in English as the common bluebell or simply bluebell.\nIn spring, Bluebell produces a nodding, one-sided inflorescence of 5–12 tubular, sweet-scented violet–blue flowers, with strongly recurved tepals, and 3–6 long, linear, basal leaves.\nHyacinthoides non-scripta is native to the western parts of Atlantic Europe, from north-western Spain and north-western Portugal, to the Netherlands and the British Isles. It is found in Belgium, Great Britain, France, Ireland, Portugal, the Netherlands and Spain, and also occurs as a naturalized species in Germany, Italy and Romania.\nThey are most successful on slightly acid soils; the same niche in alkaline conditions may be occupied by other species such as Mercurialis perennis.\nAs a species adapted to woodlands, the young shoots are able to penetrate through a thick layer of leaf litter, and bluebells are often used as an indicator species to identify ancient woodland.\nBluebells are also frequently found in hedgerows, and in the west of their range they can be found growing in open habitats, including coastal meadows.\nBluebell flowers are rich in pollen and nectar, and are chiefly pollinated by bumblebees, although they are also visited by various other insects.\nThey are a host species for the parasitic fungus Uromyces muscari, which causes bluebell rust.\nThe ability of H. non-scripta to take up phosphorus from the soil is greatly enhanced by the presence of arbuscular mycorrhizae in its roots."
+}

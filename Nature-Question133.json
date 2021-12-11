@@ -1,0 +1,20 @@
+﻿{
+"app":"Visual Quiz",
+"question":"Which plant is this?",
+"answers":[
+	"Mandarin",
+	"Jackfruit",
+	"Apricot",
+	"Watermelon"
+	],
+"correctAnswer":2,
+"hints":[
+	"It is the national fruit of Bangladesh and Sri Lanka",
+	"It is called a \"vegetable meat\""
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The jackfruit (Artocarpus heterophyllus), also known as jack tree, is a species of tree in the fig, mulberry, and breadfruit family (Moraceae).\nIts origin is in the region between the Western Ghats of southern India, all of Sri Lanka and the rainforests of Malaysia, Indonesia and the Philippines.\nThe jack tree is well-suited to tropical lowlands, and is widely cultivated throughout tropical regions of the world. It bears the largest fruit of all trees, reaching as much as 55 kg (120 pounds) in weight, 90 cm (35 inches) in length, and 50 cm (20 inches) in diameter.\nA mature jack tree produces some 200 fruits per year, with older trees bearing up to 500 fruits in a year.\nThe jackfruit is a multiple fruit composed of hundreds to thousands of individual flowers, and the fleshy petals of the unripe fruit are eaten.\nThe ripe fruit is sweet (depending on variety) and is more often used for desserts. Canned green jackfruit has a mild taste and meat-like texture that lends itself to being called a \"vegetable meat\".\nJackfruit is commonly used in South and Southeast Asian cuisines. Both ripe and unripe fruits are consumed.\nThe jackfruit is the national fruit of Bangladesh and Sri Lanka, and the state fruit of the Indian states of Karnataka, Kerala and Tamil Nadu.\nIt is available internationally canned or frozen and in chilled meals as are various products derived from the fruit such as noodles and chips."
+}

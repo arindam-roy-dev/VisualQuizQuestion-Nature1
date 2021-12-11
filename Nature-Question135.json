@@ -1,0 +1,21 @@
+﻿{
+"app":"Visual Quiz",
+"question":"Which insect is this?",
+"answers":[
+	"Ladybug",
+	"Mantis",
+	"Cricket",
+	"Beetle"
+	],
+"correctAnswer":4,
+"hints":[
+	"They do not cause economic damage and are beneficial by helping to control insect pests",
+	"Prominent in human culture, from the sacred scarabs of ancient Egypt",
+	"The oldest known this insect is Coleopsis, from the earliest Permian of Germany, around 295 million years ago"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Beetles are insects that form the order Coleoptera, in the superorder Endopterygota.\nTheir front pair of wings are hardened into wing-cases, elytra, distinguishing them from most other insects.\nThe Coleoptera, with about 400,000 described species, is the largest of all orders, constituting almost 40% of described insects and 25% of all known animal life-forms; new species are discovered frequently, with estimates suggesting that there are between 0.9 to 2.1 million total species.\nFound in almost every habitat except the sea and the polar regions, they interact with their ecosystems in several ways: beetles often feed on plants and fungi, break down animal and plant debris, and eat other invertebrates.\nSome species are serious agricultural pests, such as the Colorado potato beetle, while others such as Coccinellidae (ladybirds or ladybugs) eat aphids, scale insects, thrips, and other plant-sucking insects that damage crops.\nBeetles typically have a particularly hard exoskeleton including the elytra, though some such as the rove beetles have very short elytra while blister beetles have softer elytra.\nThe general anatomy of a beetle is quite uniform and typical of insects, although there are several examples of novelty, such as adaptations in water beetles which trap air bubbles under the elytra for use while diving.\nBeetles are endopterygotes, which means that they undergo complete metamorphosis, with a series of conspicuous and relatively abrupt changes in body structure between hatching and becoming adult after a relatively immobile pupal stage.\nSome, such as stag beetles, have a marked sexual dimorphism, the males possessing enormously enlarged mandibles which they use to fight other males.\nMany beetles are aposematic, with bright colours and patterns warning of their toxicity, while others are harmless Batesian mimics of such insects.\nMany beetles, including those that live in sandy places, have effective camouflage.\nBeetles are prominent in human culture, from the sacred scarabs of ancient Egypt to beetlewing art and use as pets or fighting insects for entertainment and gambling.\nHowever, the major impact of beetles on human life is as agricultural, forestry, and horticultural pests. Serious pests include the boll weevil of cotton, the Colorado potato beetle, the coconut hispine beetle, and the mountain pine beetle. Most beetles, however, do not cause economic damage and many, such as the lady beetles and dung beetles are beneficial by helping to control insect pests.\nThe oldest known beetle is Coleopsis, from the earliest Permian (Asselian) of Germany, around 295 million years ago."
+}
